@@ -94,11 +94,55 @@ Viriatus became proof of Ventari discipline.
 
 His victories were used to argue that the old order failed where Ventari teaching, hierarchy, and control succeeded.
 
-## Remaining Chain To Finish
+## Problem 06 — Making Regulatus Belong
 
-Regulatus still needs to connect back to the original design problem: quests.
+If Regulatus was going to impact quest design, it needed to belong to the world instead of sitting on top of it.
 
-The remaining sections should explain how Regulatus becomes inherited pressure, how that pressure shapes people and factions, and how those conditions create quest opportunities.
+It had to feel like something produced by the setting's history.
+
+## Solution
+
+I tied Regulatus to House Ventari's conquests.
+
+Its origin became connected to the way House Ventari used Viriatus, his victories, and his public meaning to reshape power.
+
+## Problem 07 — Making Regulatus Felt
+
+Regulatus now belonged to the world, but it still existed mostly as history.
+
+If it was going to impact quest design, it needed to be felt by the people living under it.
+
+## Solution
+
+I tied Regulatus to pride, belonging, gratitude, family honor, and purpose.
+
+Instead of controlling people through fear alone, Regulatus taught people to feel proud of the order they lived within.
+
+## Problem 08 — Turning Feeling Into Behavior
+
+Feeling alone does not create quests.
+
+It needed to affect how people behaved.
+
+## Solution
+
+Regulatus became a lens through which characters interpreted the world.
+
+It shaped what they justified, what they feared, what they were proud of, and what they were willing to protect.
+
+## Problem 09 — Returning To Quests
+
+History and ideology were now influencing behavior, but the original goal was quest design.
+
+## Solution
+
+History became behavior.
+
+Behavior became atmosphere.
+
+Atmosphere became quest pressure.
+
+Quest opportunities emerged from the world rather than being placed on top of it.
 
 ---
 © Diogo Oliveira — June 2026
