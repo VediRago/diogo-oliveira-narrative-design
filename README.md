@@ -1,142 +1,42 @@
-# Diogo Oliveira
+# Diogo Oliveira — Narrative Design Portfolio
 
-## Narrative Designer & Interactive Storyteller
+I build narrative systems through pressure, consequence, world logic, and player / reader perception.
 
-I build layered narrative experiences focused on emotional storytelling, player/reader perception, world pressure, and meaningful discovery.
+This portfolio focuses on process: how I approach narrative design problems, test methods, document decisions, and turn story ideas into game-facing structure.
 
-My work explores how character, worldbuilding, structure, and interaction can make an audience feel something first, then understand more later.
+## About This Portfolio
 
-This portfolio is built from self-directed projects, prototypes, and case studies. It is designed to show how I think, document, iterate, and turn narrative ideas into game-facing structure.
+I began studying narrative design in May 2026 while working full-time outside the games industry.
 
----
+AI was used throughout this process as a tool for discussion, organization, stress testing, and review. Working this way helped me learn more about my own process, strengths, limitations, and creative judgment, while also learning where AI can help and where it can interfere by adding or changing meaning I did not intend.
 
-## Portfolio Highlights
+## Start Here
 
-### 1. Fragments — Layered Narrative System
+1. [The First Note](case-studies/first-note-origin.md)  
+   The dated origin point for the process shown in this portfolio.
 
-A case study about mystery structure, emotional payoff, delayed recognition, and reader belief evolution.
+2. Building a World to Test Quest Design  
+   How a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
 
-**Demonstrates:**
+3. Layer Method  
+   A process for moving from pressure to experience, emotion, reason, behavior, atmosphere, and quest logic.
 
-- Narrative architecture
-- Misdirection without cheating the audience
-- Bridge systems
-- Long-form emotional payoff
-- Reader/player perception design
+4. Twine Layer Prototype  
+   A playable test for layered city state, faction pressure, and local behavior.
 
-[Read the case study](case-studies/fragments-layered-narrative.md)
+## Case Studies
 
----
+- Building a World to Test Quest Design
+- Layer Method
+- Twine Layer Prototype
 
-### 2. NOEME — Visual Narrative Teaser
+## Supporting Files
 
-A short Twine / HTML / CSS visual teaser using image layering, typography, fade timing, blur, and rhythm to communicate mood before explanation.
-
-**Demonstrates:**
-
-- Visual storytelling
-- Twine presentation
-- Cinematic pacing
-- Mood prototyping
-- Iterative timing work
-
-[Read the case study](case-studies/noeme-teaser.md)
-
----
-
-### 3. Interactive Narrative Experiments
-
-Small experiments focused on non-choice-based interaction, pacing, presentation, controlled information flow, and emotional delivery.
-
-**Demonstrates:**
-
-- Interactive thinking
-- Narrative prototyping
-- Layout and timing as story tools
-- Rapid self-directed learning
-
-[View project notes](projects/interactive-narrative-experiments.md)
-
----
-
-### 4. Fragments Project Overview
-
-A larger story world used to test emotional continuity, recurring images, hidden structure, and narrative systems documentation.
-
-**Demonstrates:**
-
-- Character-driven worldbuilding
-- Story architecture
-- Motif tracking
-- Structural documentation
-- Long-form creative development
-
-[View project overview](projects/fragments.md)
-
----
-
-## Narrative Design Approach
-
-My strongest interest is how meaning changes over time.
-
-I like designing stories where early details are emotionally clear before they are fully explained. A clue should not exist only to prove the writer is clever. It should matter as a feeling, a behavior, a place, a wound, or a character choice before it becomes part of a larger structure.
-
-Core principles:
-
-- People before systems
-- Discovery over exposition
-- Recognition over explanation
-- Emotional continuity over random twists
-- World pressure over disconnected lore
-- Consequences that feel earned
-
----
-
-## Skills Shown In This Portfolio
-
-- Narrative design documentation
-- Story architecture
-- Worldbuilding from character pressure
-- Mystery and reveal structure
-- Emotional pacing
-- Reader/player perception design
-- Twine prototyping
-- HTML / CSS presentation experiments
-- Markdown documentation
-- Visual storytelling and image composition
-
-[View skills page](skills.md)
-
----
-
-## Current Tools
-
-- Twine
-- HTML / CSS
-- Markdown
-- GitHub
-- Photopea
-- Blender, learning
-- Unreal Engine, learning
-
----
-
-## Portfolio Roadmap
-
-- [x] Portfolio front page
-- [x] Fragments project overview
-- [x] Fragments layered narrative case study
-- [x] NOEME teaser case study
-- [x] Interactive narrative experiments page
-- [x] Skills page
-- [ ] Writing samples
-- [ ] Playable Twine prototype link
-- [ ] Visual development / storyboard page
-
----
+Selected development files will be organized here after the main case studies are complete.
 
 ## Contact
 
 GitHub: [VediRago](https://github.com/VediRago)
 
-Portfolio currently under active development.
+---
+© Diogo Oliveira — June 2026
