@@ -2,7 +2,7 @@
 
 ## Main Problem
 
-After building the world logic and modular method, the next question was whether the same thinking could drive a reactive prototype.
+After building the world logic and [modular method](building-a-modular-narrative-method.md), the next question was whether the same thinking could drive a reactive prototype.
 
 I did not want a simple reputation bar where one faction goes up, another goes down, and the world reacts through direct switches. That kind of system can make factions feel too flexible, as if their identity changes whenever the player touches them.
 
@@ -142,7 +142,7 @@ Pressure -> Layer 1 City State
 Layer 1 City State -> future NPC behavior, faction access, location mood, and quest logic
 ```
 
-This connects back to the wider portfolio method:
+This connects back to the wider portfolio [method chain](../vault/case-study-02/method-chain.md):
 
 ```text
 past experience
@@ -160,9 +160,9 @@ In the prototype, experiences create pressure. Influence decides how far that pr
 
 This case study tested whether the earlier worldbuilding method could become playable structure.
 
-Case Study 01 showed how history can create pressure.
+[Case Study 01](building-a-world-to-test-quest-design.md) showed how history can create pressure.
 
-Case Study 02 showed how the method can scale from character to place, history, and quest logic.
+[Case Study 02](building-a-modular-narrative-method.md) showed how the method can scale from character to place, history, and quest logic.
 
 Case Study 03 tested that logic inside an interactive prototype.
 
