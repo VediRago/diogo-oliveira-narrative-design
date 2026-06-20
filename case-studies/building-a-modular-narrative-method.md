@@ -182,11 +182,14 @@ The method remained the same.
 
 Only the depth changed.
 
+This also revealed a useful design insight: each layer works as a [meaningful constraint](../vault/case-study-02/constraint-through-meaning.md), reducing weak possibilities instead of adding complexity.
+
 ## Support Files
 
 - [Modular Method](../vault/case-study-02/modular-method.md)
 - [Extension Rule](../vault/case-study-02/extension-rule.md)
 - [Method Chain](../vault/case-study-02/method-chain.md)
+- [Constraint Through Meaning](../vault/case-study-02/constraint-through-meaning.md)
 - [Viriatus](../vault/case-study-02/viriatus.md)
 - [Regulatus](../vault/case-study-02/regulatus.md)
 - [AVD Calendar](../vault/case-study-02/avd-calendar.md)
