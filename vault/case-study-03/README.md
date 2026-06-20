@@ -6,16 +6,19 @@ This folder contains support files for Case Study 03: Testing the Method Through
 
 These files explain the layered reactivity model used in the Twine prototype.
 
-## Files
+## Core Principles
 
-- [Layer 1 — Regulatus](layer-1-regulatus.md)
-- [NPC Archetypes](npc-archetypes.md)
-- [NPC Emotional State Model](npc-emotional-state-model.md)
-- [Faction Pressure Layers](faction-pressure-layers.md)
-- [Fluid And Locked Layers](fluid-and-locked-layers.md)
-- [District Reaction Test](district-reaction-test.md)
-- [NPC Layer Change Test](npc-layer-change-test.md)
-- [Empty Shelves Quest Test](empty-shelves-quest-test.md)
+[Faction Pressure Principles](faction-pressure-principles.md) explains why factions are treated as pressure systems rather than simple teams.
+
+[Layer 1 — Regulatus](layer-1-regulatus.md) explains the wider city-state pressure that the prototype reacts to.
+
+## NPC And Faction Behavior
+
+[NPC Archetypes](npc-archetypes.md), [NPC Emotional State Model](npc-emotional-state-model.md), and [Faction Pressure Layers](faction-pressure-layers.md) show how people and factions interpret the same pressure differently.
+
+## Prototype Tests
+
+[Fluid And Locked Layers](fluid-and-locked-layers.md), [District Reaction Test](district-reaction-test.md), [NPC Layer Change Test](npc-layer-change-test.md), and [Empty Shelves Quest Test](empty-shelves-quest-test.md) document the early reactivity tests.
 
 ---
 © Diogo Oliveira — June 2026
