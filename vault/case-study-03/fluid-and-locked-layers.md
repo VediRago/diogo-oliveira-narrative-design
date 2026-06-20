@@ -12,9 +12,9 @@ Locked layers belong to institutions with strong identity, ritual, training, hie
 
 Instead, locked layers become pressure points inside changed conditions.
 
-The player may change how a city sees Lux, Virtus, Scutis, gangs, Novacula, or Regulatus. The player may change how citizens respond to them. But major factions keep their deeper identity.
+The player may change how a city sees Lux, Virtus, Scutis, gangs, Novacula, or [Regulatus](../wiki/regulatus.md). The player may change how citizens respond to them. But major factions keep their deeper identity.
 
-This creates tension without breaking immersion.
+That separation creates tension without breaking immersion.
 
 ---
 © Diogo Oliveira — June 2026
