@@ -1,5 +1,7 @@
 # Case Study 03 — Testing The Method Through Layered Reactivity
 
+← [Back to README](../README.md)
+
 ## Main Problem
 
 After building the world logic and [modular method](building-a-modular-narrative-method.md), the next question was whether the same thinking could drive a reactive prototype.
@@ -167,6 +169,18 @@ This case study tested whether the earlier worldbuilding method could become pla
 Case Study 03 tested that logic inside an interactive prototype.
 
 The result is a reactivity model where choices do not only change numbers. They change context.
+
+## Support Files
+
+- [Case Study 03 Support Index](../vault/case-study-03/README.md)
+- [Layer 1 — Regulatus](../vault/case-study-03/layer-1-regulatus.md)
+- [NPC Archetypes](../vault/case-study-03/npc-archetypes.md)
+- [NPC Emotional State Model](../vault/case-study-03/npc-emotional-state-model.md)
+- [Faction Pressure Layers](../vault/case-study-03/faction-pressure-layers.md)
+- [Fluid And Locked Layers](../vault/case-study-03/fluid-and-locked-layers.md)
+- [District Reaction Test](../vault/case-study-03/district-reaction-test.md)
+- [NPC Layer Change Test](../vault/case-study-03/npc-layer-change-test.md)
+- [Empty Shelves Quest Test](../vault/case-study-03/empty-shelves-quest-test.md)
 
 ---
 © Diogo Oliveira — June 2026
