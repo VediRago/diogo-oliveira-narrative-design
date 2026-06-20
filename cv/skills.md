@@ -41,11 +41,9 @@
 - Twine
 - HTML / CSS basics
 - Photopea
-- Blender (learning)
-- Unreal Engine (learning)
+
 
 ---
-
 ## Strengths
 
 - Rapid self-directed learning
