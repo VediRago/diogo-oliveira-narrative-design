@@ -4,7 +4,7 @@
 
 Empty Shelves tests whether a quest can emerge from NPC pressure instead of being placed on top of the world.
 
-The quest begins with a block worker in Vys. They carry an inherited Regulatus layer because the city teaches work, ration systems, records, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
+The quest begins with a block worker in Vys. They carry an inherited [Regulatus](../wiki/regulatus.md) layer because the city teaches work, ration systems, records, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
 
 They are not a rebel. They are someone trying to survive inside the system.
 
@@ -16,9 +16,7 @@ The task is simple on the surface, but every possible solution pulls the player 
 
 An official solution reinforces the worker's belief that Regulatus is flawed but correctable. A Lux solution keeps the family alive, but increases dependency on aid. A Gang / Block solution feeds the family quickly, but creates debt and future obligation. A Novacula path can expose corruption and create the strongest layer shift. Theft solves the immediate hunger, but increases fear, guilt, and Scutis attention.
 
-The quest is not only about getting food.
-
-It is about which part of the city the player chooses to empower.
+The quest is not only about getting food. It is about which part of the city the player chooses to empower.
 
 Not every outcome should create a major ideological shift. Some outcomes reinforce the starting layer. Some strengthen secondary layers. Some create fear, debt, dependency, or suspicion.
 
