@@ -30,7 +30,7 @@ Even when the player does not know every historical detail, those points help ma
 
 ## Solution
 
-I created a calendar to establish a shared reference point between the setting’s past and present.
+I created the [AVD calendar](../vault/wiki/avd-calendar.md) to establish a shared reference point between the setting’s past and present.
 
 ## Problem 02 — Calendar Origin
 
