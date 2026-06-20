@@ -12,27 +12,19 @@ AI was used throughout this process as a tool for discussion, organization, stre
 
 ## Start Here
 
-1. [The First Note](case-studies/first-note-origin.md)  
-   The dated origin point for the process shown in this portfolio.
+Start with [The First Note](case-studies/first-note-origin.md), the dated origin point for the process shown in this portfolio.
 
-2. Building a World to Test Quest Design  
-   How a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
+From there, the main case studies show the process moving from world pressure, to method, to prototype:
 
-3. Layer Method  
-   A process for moving from pressure to experience, emotion, reason, behavior, atmosphere, and quest logic.
+[Building a World to Test Quest Design](case-studies/building-a-world-to-test-quest-design.md) shows how a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
 
-4. Twine Layer Prototype  
-   A playable test for layered city state, faction pressure, and local behavior.
+[Building a Modular Narrative Method](case-studies/building-a-modular-narrative-method.md) explains the method used to move from pressure to experience, emotion, reason, behavior, atmosphere, history, and quest logic.
 
-## Case Studies
-
-- Building a World to Test Quest Design
-- Layer Method
-- Twine Layer Prototype
+[Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests that thinking through a Twine prototype built around city state, faction pressure, and local behavior.
 
 ## Supporting Files
 
-Selected development files will be organized here after the main case studies are complete.
+The case studies link to selected support files when extra context is useful. Those files are not required reading, but they show how the process developed underneath the main portfolio pages.
 
 ## Contact
 
