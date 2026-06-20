@@ -30,7 +30,7 @@ Even when the player does not know every historical detail, those points help ma
 
 ## Solution
 
-I created the [AVD calendar](../vault/wiki/avd-calendar.md) to establish a shared reference point between the setting’s past and present.
+I created the [AVD calendar](../vault/case-study-01/avd-calendar.md) to establish a shared reference point between the setting’s past and present.
 
 ## Problem 02 — Calendar Origin
 
@@ -50,7 +50,7 @@ That small reference gave the calendar an anchor that was not invented separatel
 
 The statue then needed a history.
 
-That history led to the creation of [Viriatus](../vault/wiki/viriatus.md).
+That history led to the creation of [Viriatus](../vault/case-study-01/viriatus.md).
 
 ## Problem 03 — The Figure Behind the Statue
 
@@ -62,7 +62,7 @@ If the calendar began from that point, the figure attached to the statue needed 
 
 ## Solution
 
-I created [Viriatus](../vault/wiki/viriatus.md).
+I created [Viriatus](../vault/case-study-01/viriatus.md).
 
 The statue became a way to give that figure weight, similar to how monuments or religious icons can preserve meaning across generations.
 
@@ -70,23 +70,23 @@ The statue became a way to give that figure weight, similar to how monuments or 
 
 Creating Viriatus gave the calendar a figure, but his importance still needed a consequence.
 
-He was killed, and his name, achievements, and death were used by the [Ventari family](../vault/wiki/house-ventari.md) to create [Regulatus](../vault/wiki/regulatus.md).
+He was killed, and his name, achievements, and death were used by the [Ventari family](../vault/case-study-01/house-ventari.md) to create [Regulatus](../vault/case-study-01/regulatus.md).
 
 ## Solution
 
-Viriatus became the first stone used to build the Empire under [Ventari](../vault/wiki/house-ventari.md) manipulation.
+Viriatus became the first stone used to build the Empire under [Ventari](../vault/case-study-01/house-ventari.md) manipulation.
 
 ## Problem 05 — Turning Viriatus Into Proof
 
 Viriatus could not simply be remembered as a powerful figure.
 
-If [House Ventari](../vault/wiki/house-ventari.md) wanted to control what came after him, they needed his life to prove something about them.
+If [House Ventari](../vault/case-study-01/house-ventari.md) wanted to control what came after him, they needed his life to prove something about them.
 
 They could not publicly say they found him.
 
 They needed the public to believe they formed him.
 
-So he became the myth of [Regulatus](../vault/wiki/regulatus.md), a symbol of what House Ventari claimed its discipline could create.
+So he became the myth of [Regulatus](../vault/case-study-01/regulatus.md), a symbol of what House Ventari claimed its discipline could create.
 
 ## Solution
 
@@ -96,15 +96,15 @@ His victories were used to argue that the old order failed where Ventari teachin
 
 ## Problem 06 — Making Regulatus Belong
 
-If [Regulatus](../vault/wiki/regulatus.md) was going to impact quest design, it needed to belong to the world instead of sitting on top of it.
+If [Regulatus](../vault/case-study-01/regulatus.md) was going to impact quest design, it needed to belong to the world instead of sitting on top of it.
 
 It had to feel like something produced by the setting's history.
 
 ## Solution
 
-I tied Regulatus to [House Ventari's](../vault/wiki/house-ventari.md) conquests.
+I tied Regulatus to [House Ventari's](../vault/case-study-01/house-ventari.md) conquests.
 
-Its origin became connected to the way House Ventari used [Viriatus](../vault/wiki/viriatus.md), his victories, and his public meaning to reshape power.
+Its origin became connected to the way House Ventari used [Viriatus](../vault/case-study-01/viriatus.md), his victories, and his public meaning to reshape power.
 
 ## Problem 07 — Making Regulatus Felt
 
