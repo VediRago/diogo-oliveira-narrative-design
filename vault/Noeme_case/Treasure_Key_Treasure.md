@@ -1,5 +1,7 @@
 # Treasure Key Treasure
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 A discovery should be rewarding when first found.
 
 Later, the same discovery may unlock a larger layer.
@@ -36,4 +38,4 @@ Sera is not only a mechanism for Unity.
 
 Each fragment needs its own emotional value before it becomes structurally useful.
 
-This supports the [[Layered Narrative System]] because the audience can care before they understand the larger structure.
+This supports the [[Layered_Narrative_System|Layered Narrative System]] because the audience can care before they understand the larger structure.
