@@ -4,9 +4,7 @@
 
 Unity is the point where the layered system stops being background structure and becomes direct emotional experience.
 
-Unity should not arrive as a lecture about mechanics.
-
-It should feel like accumulated recognition becoming impossible to contain.
+It is not omniscience, a memory montage, or a lore reveal. Unity is experience, recognition, and convergence.
 
 ## Function
 
@@ -14,7 +12,21 @@ Earlier layers prepare the audience emotionally, structurally, and intuitively.
 
 The reader has already seen recurring images, repeated symptoms, identity echoes, and incomplete explanations.
 
-Unity brings those signals together. It confirms that the separated fragments are connected through the hidden continuity system and that the condition can change after convergence.
+Unity brings those signals together. It confirms that the separated [Fragments](Fragments.md) are connected through the hidden continuity system and that [The Condition](The_Condition.md) can change after convergence.
+
+Mechanically, Unity exposes Kael to the connected continuity layer at once. Kael remains limited by human perception, so she cannot process everything simultaneously. She experiences nearby fragments more clearly, while distant continuity collapses into movement, images, emotions, sensations, and finally colors.
+
+The event is simultaneous. The perception is localized.
+
+## Why Unity Cannot Be Sustained
+
+Unity cannot remain stable because [Qalm](Qalm.md) requires differentiated states to explore different outcomes.
+
+If all fragments collapse into one unified state, outcome variation stops. Fragmentation is required for experience, difference, and continuity exploration.
+
+Qalm restores separation because separated states are structurally necessary.
+
+The tragedy is that Qalm restores fragmentation too late. Kael has already touched the shared layer and affected associated fragments. That consequence is explained through [Kael Quarantine and Contamination](Kael_Quarantine_And_Contamination.md) and [System Failure](System_Failure.md).
 
 ## Audience Experience
 
