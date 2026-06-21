@@ -4,7 +4,7 @@
 
 Regulatus is the inherited doctrine of ordered legacy that shapes Erit's world.
 
-It is not only a law code, religion, government policy, or institution. It is a method of life: the feeling of being proud to belong to the order that protects, feeds, educates, disciplines, records, and gives purpose to its people.
+Its a law code, religion, government policy, or institution. It is a method of life: the feeling of being proud to belong to the order that protects, feeds, educates, disciplines, records, and gives purpose to its people.
 
 On the surface, Regulatus is legacy, duty, gratitude, family honor, discipline, and belonging. Underneath, it is mass control.
 
