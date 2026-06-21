@@ -1,6 +1,6 @@
 # Mystery Debt
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Treasure_Key_Treasure|Treasure Key Treasure]]
 
 Every unanswered question is a loan.
 
