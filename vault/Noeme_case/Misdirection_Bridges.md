@@ -4,7 +4,7 @@
 
 Misdirection bridges give the audience real evidence for an incomplete interpretation.
 
-The audience discovers a genuine connection before understanding how it works.
+The audience discovers a genuine connection before understanding how that connection works inside the story system.
 
 A successful misdirection bridge creates the feeling:
 
@@ -24,9 +24,9 @@ Lucreta appears first with red hair, pale fading eyes, and symptoms of decline.
 
 Later, Sera appears with similar visual traits. The resemblance encourages the audience to connect them and search for a shared identity.
 
-The resemblance is real. The shape of the connection is still unknown.
+The shared identity is real. Lucreta, Sera, and Erit are the same person across separation.
 
-The audience is given enough evidence to recognize the pattern, but not enough to understand how it works.
+The unfinished part is how that identity can exist through separate lives.
 
 ## Virus / Condition Misdirection
 
@@ -34,9 +34,9 @@ The condition first appears alongside a viral collapse.
 
 Repeated symptoms, visual similarities, and Kael's deterioration encourage the audience to connect the condition to infection.
 
-The virus exists and affects the story. The complete explanation is larger than infection.
+The virus exists and affects the story. It explains local damage in Sera's world.
 
-The audience sees evidence of a larger pattern before understanding its scale.
+It does not explain why similar symptoms appear across separate lives, timelines, and contexts. Those symptoms belong to the recurring condition carried through the hidden continuity system.
 
 ## Sera Alert / Kael False Target
 
@@ -64,6 +64,6 @@ A hospital girl survives a condition that should have killed her.
 
 The audience may interpret the moment as a cure, a miracle, or an isolated anomaly.
 
-The scene presents evidence that the pattern no longer resolves the same way.
+The scene shows that Unity has changed how the condition resolves. The old pattern led toward collapse and death. After Unity, the condition can leave survival behind.
 
-The ending provides proof that something changed without explaining the mechanics behind it.
+The hospital girl's pale grey eyes, survival, and movement toward the window show the rule change through the body instead of explaining the mechanics in dialogue.
