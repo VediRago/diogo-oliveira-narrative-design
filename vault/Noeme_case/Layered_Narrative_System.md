@@ -16,13 +16,13 @@ This includes relationships, loss, survival, attachment, and personal conflict.
 
 Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of the shared identity and continuity pattern.
 
-A fragment should function as a complete emotional experience before it becomes part of the [Treasure Key Treasure](Treasure_Key_Treasure.md) discovery loop.
+A fragment should function as a complete emotional experience before it becomes part of the discovery loop.
 
 ## Layer 2: Structural Story
 
 The layer that creates connections between fragments.
 
-It includes recurring images, symptoms, visual motifs, outcomes, and [Bridge System](Bridge_System.md) elements.
+It includes recurring images, symptoms, visual motifs, outcomes, and bridge elements.
 
 These patterns are not exposition.
 
@@ -47,6 +47,8 @@ It gives separated lives, recurring symptoms, and repeated visual traits a reaso
 The reader does not need to know every mechanic.
 
 The reader needs enough evidence to feel that the story is organized by a real design logic.
+
+The hidden rules behind that design are explained in [Hidden System](Hidden_System.md).
 
 ## Relationship to Unity
 
