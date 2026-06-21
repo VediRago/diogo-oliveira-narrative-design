@@ -10,9 +10,7 @@ It became the seed for the methods, case studies, worldbuilding systems, and pro
 
 ## Portfolio Function
 
-This is not presented as a finished theory.
-
-It is presented as the first visible trace of a process:
+This page presents the first visible trace of a process:
 
 ```text
 Initial question
@@ -33,8 +31,6 @@ assets/first-note-may-20.png
 
 ## Design Takeaway
 
-The important part is not the note by itself.
+The note matters because it became a starting point.
 
-The important part is what it became.
-
-A small idea was tested through story structure, worldbuilding, documentation, and interactive design until it became a repeatable method.
+What began as a small idea was tested through story structure, worldbuilding, documentation, and interactive design until it developed into a repeatable method.
