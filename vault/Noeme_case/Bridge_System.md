@@ -1,6 +1,6 @@
 # Bridge System
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [Case Study 04 — Noeme Layered Narrative System](../../case-studies/noeme-layered-narrative-system.md)
 
 A bridge is a connection that allows one scene, image, behavior, or misunderstanding to carry meaning into another part of the story.
 
@@ -10,13 +10,13 @@ They make later moments land harder because earlier scenes prepared the ground.
 
 ## Visual Motif Bridges
 
-[[Visual_Motif_Bridges|Visual Motif Bridges]] use images that return with changed meaning.
+[Visual Motif Bridges](Visual_Motif_Bridges.md) use images that return with changed meaning.
 
 Eyes that fade, then eyes that survive. Windows that frame loss, then windows that frame continuation. The same image means different things as context evolves.
 
 ## Misdirection Bridges
 
-[[Misdirection_Bridges|Misdirection Bridges]] use real evidence to support an incomplete explanation.
+[Misdirection Bridges](Misdirection_Bridges.md) use real evidence to support an incomplete explanation.
 
 The audience forms a working theory from genuine clues. Later evidence expands beyond that first theory.
 
