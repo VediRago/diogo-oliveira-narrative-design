@@ -2,13 +2,13 @@
 
 ## Summary
 
-**Noeme** is a long-form narrative project built around emotional storytelling, delayed recognition, and layered interpretation.
+**Noeme** is a long-form narrative project built around emotional storytelling, [[Reader_Reward|reader reward]], delayed recognition, and layered interpretation.
 
-This case study focuses on the narrative design method behind the project: how to create mystery, emotional payoff, and evolving audience understanding without relying on unfair withholding or random twists.
+This case study focuses on the narrative design method behind the project: how to create mystery, emotional payoff, and evolving audience understanding without unfair withholding or random twists.
 
 **Role:** Creator, writer, narrative designer  
 **Format:** Story world, prose, documentation, Twine / interactive presentation experiments  
-**Focus:** Narrative architecture, reader/player perception, bridge systems, emotional pacing
+**Focus:** Narrative architecture, reader/player perception, [[Bridge_System|bridge systems]], emotional pacing
 
 ---
 
@@ -18,9 +18,7 @@ The central design problem was:
 
 > How can a story create mystery and long-term curiosity without making the audience feel tricked?
 
-The main risk was explaining too much too early, which removes tension. Holding back too much creates the opposite problem: the audience starts to feel managed instead of engaged. Twists can also damage trust when they erase earlier meaning instead of deepening it.
-
-The solution is a [[Layered_Narrative_System|Layered Narrative System]] where the audience receives partial answers that are meaningful when first discovered, then later become part of a larger structure.
+The main risks were explaining too much too early, withholding too much, and adding twists that erase earlier meaning. The solution is a [[Layered_Narrative_System|layered narrative system]] where the audience receives partial answers that matter when first discovered, then later become part of a larger structure.
 
 ---
 
@@ -40,44 +38,94 @@ A first answer should work. Later, the story should [[Stretching_Instead_of_Repl
 
 The emotional layer comes first.
 
-The reader should care about the characters before being asked to understand the structure connecting them.
-
-Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
+The reader should care about the characters before being asked to understand the structure connecting them. Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
 
 A fragment must be valuable as a scene before it becomes part of the [[Treasure_Key_Treasure|Treasure Key Treasure]] discovery loop.
 
 ---
 
-## Case Structure
+## Layered Narrative System
 
-This folder is organized as a case-study map, not a lore wiki.
+Noeme is built through [[Layered_Narrative_System|layered storytelling]]. The visible layer is carried by relationships, loss, survival, attachment, and personal conflict. The structural layer is carried by recurring images, symptoms, outcomes, displacement, continuity, and [[Unity|Unity]].
 
-The [[Layered_Narrative_System|Layered Narrative System]] explains the core architecture: character story, structural story, reader interpretation, and hidden system. This is where the foundation of the case lives.
+The reader does not need the full blueprint. The reader needs to feel that the story has a reason behind its connections. That reason is held by the [[Hidden_System|hidden system]], while the emotional experience stays with the characters.
 
-The [[Bridge_System|Bridge System]] explains how meaning travels between fragments. It holds the pages for [[Visual_Motif_Bridges|Visual Motif Bridges]] and [[Misdirection_Bridges|Misdirection Bridges]], because both are bridge types.
+---
 
-The [[Treasure_Key_Treasure|Treasure Key Treasure]] loop explains how discoveries stay valuable. It holds the pages for [[Reader_Reward|Reader Reward]] and [[Mystery_Debt|Mystery Debt]], because both are part of how the story pays attention back to the audience.
+## Bridge System
 
-[[Emotional_Architecture|Emotional Architecture]] explains pacing: breathing room, pressure, rupture, overload, and stillness. It sits beside the system pages because timing controls when the audience can absorb each reveal.
+A [[Bridge_System|bridge]] lets one scene, image, behavior, or misunderstanding carry meaning into another part of the story.
+
+Bridges prepare recognition. A reader experiences a moment emotionally first. Later, the same image or structure returns with more weight because something earlier prepared the ground.
+
+[[Visual_Motif_Bridges|Visual motif bridges]] carry meaning through images such as eyes, red hair, windows, sky, and repeated physical details. [[Misdirection_Bridges|Misdirection bridges]] give the audience real evidence for an incomplete interpretation.
+
+---
+
+## Stretching Meaning
+
+Noeme uses [[Stretching_Instead_of_Replacing|stretching]] as its main mystery method.
+
+The reader forms an answer from real evidence. That answer works at its first scale. Later evidence expands the answer until the reader understands it as part of a larger shape.
+
+This keeps earlier attention valuable. The audience was not punished for forming a theory; their theory became too small for the whole pattern.
+
+---
+
+## Discovery Loop
+
+The [[Treasure_Key_Treasure|Treasure Key Treasure]] loop keeps discoveries useful across the story.
+
+A scene, character, image, or clue should be rewarding when first found. Later, that same discovery can unlock another layer.
+
+Lucreta is valuable as Lucreta's story. Sera is valuable as Sera's story. Their fragments can later become structural keys without losing their emotional value.
+
+---
+
+## Reader Reward and Mystery Debt
+
+Mystery creates pressure. If the story only adds questions, the audience eventually becomes frustrated. Noeme manages that pressure through [[Reader_Reward|reader reward]] and controlled [[Mystery_Debt|mystery debt]].
+
+The audience receives value before the frame expands again: an emotional scene, a working explanation, a visual connection, a pattern recognition, or a moment that pays off attachment.
+
+The final reveal becomes the largest reward in a series of recognitions.
+
+---
+
+## Emotional Architecture
+
+[[Emotional_Architecture|Emotional Architecture]] controls when the audience receives pressure, release, rupture, overload, and stillness.
+
+The story needs breathing room before pain has weight. Pressure can then narrow toward danger, loss, or change. Rupture breaks safety. Overload destabilizes perception. Stillness lets the impact land.
+
+This timing matters because answers and recognitions only work when the audience has enough emotional space to absorb them.
+
+---
+
+## Unity
+
+[[Unity|Unity]] is where the layered system stops being background structure and becomes direct emotional experience.
+
+Earlier layers prepare the reader through attachment, recurring images, incomplete theories, and accumulated recognition. By the time Unity arrives, the audience has already been trying to connect the fragments. [[Unity_Observation_Audience_Participation|Audience participation]] becomes part of the design: the reader attempts to create Unity before fully understanding it.
 
 ---
 
 ## Design Outcome
 
-This structure lets early scenes work emotionally before the larger mechanics are known. Repeated images become [[Visual_Motif_Bridges|recognition]] instead of decoration, while partial answers satisfy curiosity without ending it.
+This structure lets early scenes work emotionally before the larger mechanics are known. Repeated images become recognition. Partial answers satisfy curiosity without ending it. Characters remain people before they become evidence.
 
-Characters remain people before they become evidence. Later reveals can expand earlier investment because the story is built around [[Stretching_Instead_of_Replacing|stretching meaning]] rather than erasing it.
+Later reveals can expand earlier investment because the story is built around stretching meaning.
 
 ---
 
 ## Portfolio Relevance
 
-This case study demonstrates narrative architecture, reader/player perception design, long-form mystery structure, emotional pacing, [[Misdirection_Bridges|misdirection design]], worldbuilding through evidence, and documentation of story systems.
+This case study demonstrates narrative architecture, reader/player perception design, long-form mystery structure, emotional pacing, misdirection design, worldbuilding through evidence, and documentation of story systems.
 
 ---
 
 ## Lessons Learned
 
-This project clarified that character attachment must come before abstract structure. Misdirection works best when the clues are real. Partial answers are stronger when they pay attention back to the audience through [[Reader_Reward|reader reward]] and controlled [[Mystery_Debt|mystery debt]].
+This project clarified that character attachment must come before abstract structure. Misdirection works best when the clues are real. Partial answers are stronger when they pay attention back to the audience.
 
 Recognition can be stronger than exposition. A story can reward different levels of attention without requiring every reader to decode everything.
