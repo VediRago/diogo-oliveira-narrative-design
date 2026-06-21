@@ -4,7 +4,7 @@
 
 Continuation is the evidence that lives can continue beyond the old expected outcome.
 
-Healthy fragments seen during [Unity](Unity.md) are not contradictions. They show that continuation is possible and that the old [Condition](The_Condition.md) pattern is beginning to fail.
+Healthy fragments seen during Unity are not contradictions. They show that continuation is possible and that the old Condition pattern is beginning to fail.
 
 The reader should experience continuation as evidence first. The story does not need to stop and explain the system in the moment.
 
