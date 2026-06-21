@@ -2,7 +2,7 @@
 
 ← Back to [Unity](Unity.md)
 
-[Qalm](Qalm.md) requires separation because experience depends on difference.
+Qalm requires separation because experience depends on difference. This rule is defined in the [Cosmology Reference](Cosmology_Reference.md).
 
 Lucreta, Sera, Erit, and Kael exist as separate lives. Each fragment must first be understood as its own emotional reality before the larger continuity structure can become visible.
 
@@ -24,4 +24,4 @@ This mirrors the central contradiction of the story:
 
 The audience unknowingly participates in the same tension the story explores.
 
-They are not only watching the fragments move toward [Unity](Unity.md). They are trying to unify them themselves.
+They are not only watching the fragments move toward Unity. They are trying to unify them themselves.
