@@ -77,7 +77,9 @@ This case study demonstrates visual storytelling instincts, Twine used beyond si
 
 ## Lessons Learned
 
-The teaser helped me understand that presentation details can carry story meaning.
+The teaser helped me understand that presentation details can carry story meaning, even when not explained or understood at first.
+
+The limitation to 20 seconds or less made me realize that constraints can help create a piece that does not lose attention while remaining mysterious and rewarding viewers who look deeper.
 
 Fade timing, delay, blur, glow, and letter order all shape how the viewer reads the moment.
 
