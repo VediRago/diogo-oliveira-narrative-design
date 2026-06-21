@@ -28,9 +28,9 @@ The later value should enrich it, not consume it.
 
 ## Fragment Value
 
-Lucreta is not only setup for later events.
+Lucreta has emotional value as Lucreta's story.
 
-Sera is not only a mechanism for Unity.
+Sera has emotional value as Sera's story.
 
 Each fragment needs its own emotional value before it becomes structurally useful.
 
