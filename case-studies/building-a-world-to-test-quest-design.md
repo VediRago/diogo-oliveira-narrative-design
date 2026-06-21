@@ -112,7 +112,7 @@ To impact quest design, it needed to be felt by the people living under it.
 
 I tied Regulatus to pride, belonging, gratitude, family honor, and purpose.
 
-Regulatus taught people to feel proud of the order they lived within, not only afraid of it.
+Regulatus taught people to feel proud of the order they lived within and afraid of the disorder beyond it.
 
 ## Problem 08 — Turning Feeling Into Behavior
 
