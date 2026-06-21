@@ -6,7 +6,7 @@ Teresta Ventari is one of the children of [House Ventari](house-ventari.md), but
 
 She is away when [Viriatus](viriatus.md) is murdered, which means she is not part of the killing or the first cover-up. She learns the truth later from [Rutare Ventari](rutare-ventari.md), not through politics, but through confession. Rutare tells her because she treats him with care, and because he can no longer carry the pressure alone.
 
-What Teresta learns changes the meaning of the new order for her. [Regulatus](regulatus.md) is not only built after Viriatus's death. It is built from a hidden murder made useful through grief, ceremony, and public meaning.
+What Teresta learns changes the meaning of the new order for her. [Regulatus](regulatus.md) is built after Viriatus's death and from a hidden murder made useful through grief, ceremony, and public meaning.
 
 To Teresta, this makes the foundation of House Ventari's new power false at its root.
 
