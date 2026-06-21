@@ -39,3 +39,13 @@ Sera is not only a mechanism for Unity.
 Each fragment needs its own emotional value before it becomes structurally useful.
 
 This supports the [[Layered_Narrative_System|Layered Narrative System]] because the audience can care before they understand the larger structure.
+
+## Reader Value
+
+The loop only works if each discovery gives the audience something real.
+
+That value can be emotional, structural, or interpretive. This is the purpose of [[Reader_Reward|Reader Reward]].
+
+If the story keeps asking questions without giving value back, it creates [[Mystery_Debt|Mystery Debt]].
+
+Treasure Key Treasure prevents that by making each discovery useful twice: first as its own reward, then as a key to a larger layer.
