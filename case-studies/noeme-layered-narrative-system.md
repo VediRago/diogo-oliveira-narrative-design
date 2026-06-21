@@ -12,7 +12,7 @@ The danger was familiar: explain too early and tension disappears; withhold too 
 
 I built Noeme around a [layered narrative system](../vault/Noeme_case/Layered_Narrative_System.md).
 
-The story gives the audience partial answers that work when first discovered. Later, those answers become part of a continuity structure through [stretching instead of replacing](../vault/Noeme_case/Stretching_Instead_of_Replacing.md).
+The story gives the audience partial answers that work when first discovered. Later, those answers become part of a continuity structure, where early understanding expands instead of being discarded.
 
 The intended feeling is:
 
@@ -42,7 +42,7 @@ Direct explanation would flatten the mystery. Random callbacks would feel decora
 
 I used a [bridge system](../vault/Noeme_case/Bridge_System.md).
 
-Bridges let one image, behavior, scene structure, or misunderstanding prepare meaning for a later moment. [Visual motif bridges](../vault/Noeme_case/Visual_Motif_Bridges.md) carry recognition through repeated images such as eyes, red hair, windows, and sky. [Misdirection bridges](../vault/Noeme_case/Misdirection_Bridges.md) give the audience real evidence for an unfinished explanation.
+Bridges let one image, behavior, scene structure, or misunderstanding prepare meaning for a later moment. Visual motif bridges carry recognition through repeated images such as eyes, red hair, windows, and sky. Misdirection bridges give the audience real evidence for an unfinished explanation.
 
 ## Problem 03 — Managing Reader Theories
 
@@ -56,7 +56,7 @@ Noeme lets early theories work at their first scale.
 
 A reader may connect symptoms to a virus, or assume Lucreta, Sera, and Erit are the same person through visual evidence. Those readings matter. The mystery changes when identity, condition, and Unity reveal that the same evidence belongs to a shared continuity system.
 
-That approach supports [reader reward](../vault/Noeme_case/Reader_Reward.md) while keeping [mystery debt](../vault/Noeme_case/Mystery_Debt.md) manageable.
+This supports the [Treasure Key Treasure](../vault/Noeme_case/Treasure_Key_Treasure.md) loop, where discoveries reward attention before becoming keys to deeper meaning.
 
 ## Problem 04 — Controlling Emotional Pressure
 
@@ -80,7 +80,7 @@ By the time the story reaches Unity, the audience should already be trying to co
 
 [Unity](../vault/Noeme_case/Unity.md) is where the layered system becomes direct emotional experience.
 
-The reader has already been trained by repeated images, incomplete theories, emotional echoes, and structural bridges. The [Unity observation](../vault/Noeme_case/Unity_Observation_Audience_Participation.md) is that the audience participates in the same tension as the story: they try to create Unity before they fully understand it.
+The reader has already been trained by repeated images, incomplete theories, emotional echoes, and structural bridges. The audience participates in the same tension as the story: they try to create Unity before they fully understand it.
 
 ## Result
 
