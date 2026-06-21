@@ -23,11 +23,9 @@ Initial question
 
 ## Artifact
 
-Screenshot to add:
+Original note written on May 20, 2026.
 
-```text
-assets/first-note-may-20.png
-```
+![First Note](../assets/first-note-may-20.svg)
 
 ## Design Takeaway
 
