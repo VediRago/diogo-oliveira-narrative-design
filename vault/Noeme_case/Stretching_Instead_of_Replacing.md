@@ -1,6 +1,6 @@
 # Stretching Instead of Replacing
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Layered_Narrative_System|Layered Narrative System]]
 
 A weaker mystery structure replaces answers:
 
