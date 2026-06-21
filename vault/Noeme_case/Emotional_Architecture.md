@@ -1,6 +1,6 @@
 # Emotional Architecture
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [Case Study 04 — Noeme Layered Narrative System](../../case-studies/noeme-layered-narrative-system.md)
 
 Noeme is designed around emotional pacing and breathing room.
 
@@ -8,15 +8,15 @@ Structure matters, but the audience needs time to care before the story makes th
 
 ## Emotional Rhythm
 
-**Breathing Room:** Space to settle into characters and relationships before pressure rises.
+Breathing room gives the audience space to settle into characters and relationships before pressure rises.
 
-**Pressure:** Tension narrowing toward danger, loss, or change.
+Pressure narrows the story toward danger, loss, or change.
 
-**Rupture:** The point where rhythm breaks and emotional safety is disrupted.
+Rupture breaks the rhythm and disrupts emotional safety.
 
-**Overload:** Tension beyond normal scene rhythm. Perception becomes unstable.
+Overload pushes tension beyond normal scene rhythm until perception becomes unstable.
 
-**Stillness:** Aftermath space where impact can be felt.
+Stillness gives the aftermath enough space for impact to be felt.
 
 ## Pacing Pattern
 
@@ -34,4 +34,4 @@ The audience should not feel constantly pressured.
 
 They need attachment before loss. They need stillness after impact.
 
-This timing also helps manage [[Mystery_Debt|Mystery Debt]]. Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
+This timing also helps manage [Mystery Debt](Mystery_Debt.md). Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
