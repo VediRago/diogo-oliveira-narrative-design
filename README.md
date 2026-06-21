@@ -14,13 +14,15 @@ AI was used throughout this process as a tool for discussion, organization, stre
 
 Start with [The First Note](case-studies/first-note-origin.md), the dated origin point for the process shown in this portfolio.
 
-From there, the main case studies show the process moving from world pressure, to method, to prototype:
+From there, the main case studies show the process moving from world pressure, to method, to prototype, to long-form narrative architecture:
 
 [Building a World to Test Quest Design](case-studies/building-a-world-to-test-quest-design.md) shows how a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
 
 [Building a Modular Narrative Method](case-studies/building-a-modular-narrative-method.md) explains the method used to move from pressure to experience, emotion, reason, behavior, atmosphere, history, and quest logic.
 
 [Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
+
+[Noeme — Layered Narrative System](vault/Noeme_case/Noeme_Case_Study.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
 ## Project Link
 
