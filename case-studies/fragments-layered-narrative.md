@@ -1,8 +1,8 @@
-# Case Study: Fragments — Layered Narrative System
+# Case Study: Noeme — Layered Narrative System
 
 ## Summary
 
-**Fragments** is a long-form narrative project built around emotional storytelling, delayed recognition, and layered interpretation.
+**Noeme** is a long-form narrative project built around emotional storytelling, delayed recognition, and layered interpretation.
 
 This case study focuses on the narrative design method behind the project: how to create mystery, emotional payoff, and evolving audience understanding without relying on unfair withholding or random twists.
 
