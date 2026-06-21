@@ -1,6 +1,6 @@
 # Hidden System
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Layered_Narrative_System|Layered Narrative System]]
 
 Beneath the visible story sits a hidden continuity system that keeps the narrative coherent.
 
