@@ -10,7 +10,7 @@ Over time, the atmosphere around the death becomes durable enough to become a ca
 
 The calendar begins when Regulatus is publicly declared, not when Viriatus privately dies. That distinction matters because the historical layer begins when the official meaning is accepted and inherited.
 
-For the method, the AVD calendar shows that history is not only old events. History is atmosphere that survives through time and becomes law, ritual, memory, or institution.
+For the method, the AVD calendar shows that history is old events transformed into atmosphere that survives through time and becomes law, ritual, memory, or institution.
 
 ---
 © Diogo Oliveira — June 2026
