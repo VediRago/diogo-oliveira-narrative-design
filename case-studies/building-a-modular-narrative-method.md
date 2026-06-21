@@ -18,15 +18,11 @@ The rule became:
 
 > Do not extend the chain unless the next layer is earned.
 
-That [extension rule](../vault/case-study-02/extension-rule.md) was not about adding more steps.
-
-It was about knowing when the next step was justified.
+That [extension rule](../vault/case-study-02/extension-rule.md) helped decide when the next step was justified.
 
 ## Problem 01 — Character Level
 
-Not every idea needed atmosphere, history, or quest logic.
-
-Some characters only needed enough structure to explain what shaped them and how they acted.
+Some ideas only needed enough structure to explain what shaped a character and how they acted.
 
 ## Solution
 
@@ -52,9 +48,9 @@ That reason became behavior: he accepted training, became useful, and released p
 
 ## Problem 02 — Place Level
 
-Characters could be explained through behavior, but cities, factions, and cultures created feelings that existed beyond any single person.
+Characters could be explained through behavior, while cities, factions, and cultures created feelings that existed beyond any single person.
 
-The base method explained individuals, but it did not yet explain why a place felt a certain way.
+The base method explained individuals. A place needed its own felt condition.
 
 ## Solution
 
@@ -82,9 +78,7 @@ Citizens begin policing themselves, clerks deny exceptions, guards monitor publi
 
 As those behaviors repeat, the city begins to feel orderly, proud, watched, beautiful, formal, and quietly controlling.
 
-The atmosphere is not added separately.
-
-It emerges from the behavior.
+Atmosphere emerges from repeated behavior.
 
 ## Problem 03 — History Level
 
@@ -92,7 +86,7 @@ Some atmospheres lasted longer than a single place or generation.
 
 When repeated behavior survived through time, it could become law, ritual, record, myth, institution, or inherited belief.
 
-At that point, atmosphere was no longer enough.
+At that point, atmosphere needed historical form.
 
 ## Solution
 
@@ -124,7 +118,7 @@ The [AVD calendar](../vault/case-study-02/avd-calendar.md) begins when [Regulatu
 
 ## Problem 04 — Gameplay Level
 
-History and atmosphere helped explain the world, but they still did not automatically create playable situations.
+History and atmosphere helped explain the world. The next step was turning that pressure into playable situations.
 
 I wanted quests to emerge from the world instead of being placed on top of it.
 
@@ -148,21 +142,19 @@ A quest became the playable expression of everything that came before it.
 
 ## Example — Chip Removal
 
-A person trying to join the rebels cannot remain visible to the system.
+A person trying to join the rebels needs to disappear from official systems.
 
 Their chip ties them to identification, records, medicine, and surveillance.
 
 That creates fear, urgency, distrust, and the desire to disappear.
 
-They begin avoiding clinics, hiding symptoms, seeking illegal help, and treating medical visibility as a threat.
+They begin avoiding clinics, hiding symptoms, seeking unofficial help, and treating medical visibility as a threat.
 
 The atmosphere becomes one of suspicion, dependency, and bodily control.
 
 The quest emerges naturally from that pressure.
 
-The player is not completing an arbitrary objective.
-
-They are stepping into a situation already created by the world.
+The player steps into a situation already created by the world.
 
 ## Result
 
