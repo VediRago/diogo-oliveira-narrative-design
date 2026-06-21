@@ -4,7 +4,7 @@
 
 Factions in the Dark Time do not grow from nothing. They grow from the foundation: [Viriatus](../wiki/viriatus.md)'s death, [Ermerus Ventari](../wiki/ermerus-ventari.md)'s control of the public story, the Ventari branches, inheritance, legitimacy, and exclusion.
 
-A faction is not only an organization. It is an answer to pressure.
+A faction is an organization and an answer to pressure.
 
 Each faction can be read through the same chain: **Pressure → Experience → Emotion → Reason → Behavior → Atmosphere**.
 
@@ -16,7 +16,7 @@ Lux Aeterna turns Regulatus into compassion, aid, suffering, mercy, and need. It
 
 Novacula grows from exclusion and contradiction. It rejects the meaning controlled by the family that cast out its own blood, turning suspicion into rebellion and deception into something that must be cut open.
 
-These factions are not interchangeable. They may inherit the same foundation, but each translates that foundation into a different emotional language.
+These factions inherit the same foundation and translate it into different emotional languages.
 
 ---
 © Diogo Oliveira — June 2026
