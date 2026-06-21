@@ -24,4 +24,4 @@ This mirrors the central contradiction of the story:
 
 The audience unknowingly participates in the same tension the story explores.
 
-They are not only watching the fragments move toward Unity. They are trying to unify them themselves.
+They watch the fragments move toward Unity while trying to unify them themselves.
