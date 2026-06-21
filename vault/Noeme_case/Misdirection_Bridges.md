@@ -16,7 +16,7 @@ A successful misdirection bridge creates the feeling:
 
 Noeme uses incomplete truth. The evidence is real, but the explanation is unfinished.
 
-The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions through [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md).
+The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions without discarding the first interpretation.
 
 ## Sera / Lucreta Visual Misdirection
 
