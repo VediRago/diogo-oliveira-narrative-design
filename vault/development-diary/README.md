@@ -15,7 +15,10 @@ The entries are not intended to function as canon reference files or encyclopedi
    Refines the foundation through House Ventari, Viriatus, House Devaar, and the relationship between character motivation and social systems.
 
 3. [2026-06-06](2026-06-06.md)  
-   Records the transition from raw development notes into organized portfolio and support material.
+   Records the transition from raw development notes into organized structure and support material.
+
+4. [2026-06-08](2026-06-08.md)  
+   Tests the Erit / Vys layer method in Twine and shows how worldbuilding pressure can become quest structure.
 
 ## Design Principle
 
