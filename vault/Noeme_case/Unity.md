@@ -1,6 +1,6 @@
 # Unity
 
-← Back to [[Layered_Narrative_System|Layered Narrative System]]
+← Back to [Layered Narrative System](Layered_Narrative_System.md)
 
 Unity is the point where the layered system stops being background structure and becomes direct emotional experience.
 
@@ -22,4 +22,4 @@ The reader should feel Unity before fully understanding it.
 
 This matters because Unity is not only a plot answer. It is the emotional collapse of separation.
 
-The audience has been trying to connect the fragments before the story explains how they connect. That makes [[Unity_Observation_Audience_Participation|Unity Observation: Audience Participation]] part of the design, not a side effect.
+The audience has been trying to connect the fragments before the story explains how they connect. That makes [Unity Observation: Audience Participation](Unity_Observation_Audience_Participation.md) part of the design, not a side effect.
