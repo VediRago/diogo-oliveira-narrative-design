@@ -2,11 +2,11 @@
 
 ← Back to [[Noeme_Case_Study|Noeme Case Study]]
 
-Noeme is built as a layered narrative rather than a single visible plot with hidden lore attached afterward.
+Noeme is built as a layered narrative.
 
 Different parts of the story perform different functions at the same time. The reader experiences characters on the surface while larger structural patterns operate underneath.
 
-The deeper structure exists to support the emotional story, not replace it.
+The deeper structure supports the emotional story.
 
 ## Layer 1: Character Story
 
@@ -42,7 +42,7 @@ Those theories are supported through [[Stretching_Instead_of_Replacing|Stretchin
 
 The deepest layer is the underlying structure that keeps the narrative coherent.
 
-Its purpose is not to be explained directly. Its purpose is to ensure that the connections between fragments have a reason for existing.
+It ensures that the connections between fragments have a reason for existing.
 
 The reader does not need to know the system.
 
