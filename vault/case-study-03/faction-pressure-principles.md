@@ -4,15 +4,13 @@
 
 This file records the faction logic used by Case Study 03.
 
-A faction is not only a team.
+A faction is a team and a pressure system.
 
-A faction is a pressure system.
-
-It carries public meaning, private function, expectations, fears, rituals, and social consequences. When a faction acts, it does not only move the plot. It changes how people interpret safety, loyalty, survival, and threat.
+It carries public meaning, private function, expectations, fears, rituals, and social consequences. When a faction acts, it moves the plot and changes how people interpret safety, loyalty, survival, and threat.
 
 ## Public Alignment And Private Belief
 
-Public alignment is not the same as private belief.
+Public alignment is different from private belief.
 
 A citizen may publicly perform Regulatus while privately fearing Scutis.
 
@@ -20,7 +18,7 @@ A poor family may accept Lux aid while hating the records attached to it.
 
 A gladiator may fight for a noble sponsor while carrying rebel messages.
 
-This matters because NPCs should not react only according to visible faction labels. They should react through the pressure that surrounds them and the belief they can safely show.
+This matters because NPCs should react through more than visible faction labels. They should react through the pressure that surrounds them and the belief they can safely show.
 
 ## Same Action, Different Meaning
 
@@ -38,9 +36,7 @@ The meaning changes because each faction reads the world through a different pre
 
 ## Quest Use
 
-A strong quest should not only ask what the player does.
-
-It should ask what that action means to each faction watching it.
+A strong quest asks what the player does and what that action means to each faction watching it.
 
 Good quests often come from conflict between at least three pressures:
 
