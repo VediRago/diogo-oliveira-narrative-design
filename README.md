@@ -20,7 +20,11 @@ From there, the main case studies show the process moving from world pressure, t
 
 [Building a Modular Narrative Method](case-studies/building-a-modular-narrative-method.md) explains the method used to move from pressure to experience, emotion, reason, behavior, atmosphere, history, and quest logic.
 
-[Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests that thinking through a Twine prototype built around city state, faction pressure, and local behavior.
+[Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
+
+## Project Link
+
+[NOEME](https://github.com/VediRago/Noeme) is a project shaped into a pilot, containing narrative methods, cosmology, screenplay, prose, blueprints, and a story bible.
 
 ## Supporting Files
 
