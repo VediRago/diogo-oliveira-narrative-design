@@ -6,7 +6,7 @@ This portfolio focuses on process: how I approach narrative design problems, tes
 
 ## Playable Prototype
 
-[Play the Layer Test Twine Prototype](https://cdn.jsdelivr.net/gh/VediRago/diogo-oliveira-portfolio@main/Layer%20Test%20Twine/index.html)
+[Play the Layer Test Twine Prototype](https://raw.githack.com/VediRago/diogo-oliveira-portfolio/main/Layer%20Test%20Twine/index.html)
 
 This prototype tests layered reactivity through city state, faction pressure, local behavior, and NPC memory.
 
