@@ -5,9 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Layer System Test</title>
 </head>
-<body>
+<body style="background:#0d0d0d;color:#e8e2d6;font-family:Georgia,serif;padding:2em;">
+Loading prototype...
 <script>
-fetch('index.html')
+const assetBase = 'https://raw.githack.com/VediRago/diogo-oliveira-portfolio/main/Layer%20Test%20Twine/';
+
+fetch(assetBase + 'index.html')
   .then(function(response) {
     if (!response.ok) {
       throw new Error('Could not load Twine file.');
@@ -17,15 +20,25 @@ fetch('index.html')
   .then(function(html) {
     html = html
       .replace(/vys\//g, 'Vys/')
-      .replace(/url\(&quot;vys\//g, 'url(&quot;Vys/')
-      .replace(/url\("vys\//g, 'url("Vys/');
+      .replace(/url\(&quot;([^h][^&]*?\.(?:png|jpg|jpeg|webp|gif))&quot;\)/gi, function(_, path) {
+        return 'url(&quot;' + assetBase + path + '&quot;)';
+      })
+      .replace(/url\("([^h][^"]*?\.(?:png|jpg|jpeg|webp|gif))"\)/gi, function(_, path) {
+        return 'url("' + assetBase + path + '")';
+      })
+      .replace(/src=&quot;([^h][^&]*?\.(?:png|jpg|jpeg|webp|gif))&quot;/gi, function(_, path) {
+        return 'src=&quot;' + assetBase + path + '&quot;';
+      })
+      .replace(/src="([^h][^"]*?\.(?:png|jpg|jpeg|webp|gif))"/gi, function(_, path) {
+        return 'src="' + assetBase + path + '"';
+      });
 
     document.open();
     document.write(html);
     document.close();
   })
   .catch(function(error) {
-    document.body.innerHTML = '<p style="font-family: Georgia, serif; color: white; background: #0d0d0d; padding: 2em;">The prototype could not load. Please open index.html from the repository or contact Diogo Oliveira.</p>';
+    document.body.innerHTML = '<p>The prototype could not load. The source file or asset paths need to be checked.</p>';
     console.error(error);
   });
 </script>
