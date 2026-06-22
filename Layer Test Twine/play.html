@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Layer System Test</title>
+</head>
+<body>
+<script>
+fetch('index.html')
+  .then(function(response) {
+    if (!response.ok) {
+      throw new Error('Could not load Twine file.');
+    }
+    return response.text();
+  })
+  .then(function(html) {
+    html = html
+      .replace(/vys\//g, 'Vys/')
+      .replace(/url\(&quot;vys\//g, 'url(&quot;Vys/')
+      .replace(/url\("vys\//g, 'url("Vys/');
+
+    document.open();
+    document.write(html);
+    document.close();
+  })
+  .catch(function(error) {
+    document.body.innerHTML = '<p style="font-family: Georgia, serif; color: white; background: #0d0d0d; padding: 2em;">The prototype could not load. Please open index.html from the repository or contact Diogo Oliveira.</p>';
+    console.error(error);
+  });
+</script>
+</body>
+</html>
