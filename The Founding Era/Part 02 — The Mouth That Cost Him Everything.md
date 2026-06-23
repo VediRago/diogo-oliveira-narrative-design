@@ -1,25 +1,45 @@
-# Chapter One: The Mouth That Cost Him Everything
+# Chapter Two: The Sentence I Gave Him
 
-There are things a child knows before he has words for them. Before Ermerus Ventari could stand, he knew something about him repelled his father.
+He had not yet been told he had Mother’s mouth. The knowledge came from a sibling too young to know the damage a sentence could do.
 
-Ecalus would not dismiss him entirely. He gave the same measure of attention to all who bore the Ventari name. But his eyes showed less.
+That sibling was me. Gods help me. I was the one who told him.
 
-Ermerus received less. From less came hunger.
+I was six, perhaps. Young enough to speak horror as if it were harmless. We were in the nursery. I remember light on the floor. I remember something small in his hands. I do not remember why I said it. That is one of the cruelties of memory. It stays and loses the reason.
 
-I remember Father like this. Present in body, absent in every way that mattered. Even with me, and I was the useful one. The one who cost him nothing.
+Mother died when you were born, I told him.
 
-Ermerus learned to catch the exact instant it happened. The stillness that settled over our father’s face. Half a second where Ecalus was no longer in the room with his son but somewhere else entirely.
+Ermerus looked at me. Only that. He looked at me, and whatever he held stopped moving between his fingers.
 
-My brother was right about this. I watched it happen myself. I was young enough not to understand why Father’s face would drain like that. Go flat. Only later did I understand.
+I kept speaking. Of course I did.
 
-Ermerus had Mother’s smile.
+That is why Father gets strange near your birthday.
 
-He was four the first time he changed it. Took whatever his face naturally did and folded it somewhere Father could not see.
+He did not cry. He did not ask me what I meant. He did not run from the room. He only looked down again and went back to playing.
 
-And here is where I should have understood what was coming. A child who learns to erase himself that early does not disappear.
+But not as before.
 
-He waits.
+I have lived that moment countless times. I have tried to make myself kinder inside it. Silent inside it.
 
-But I was a child too. I only saw that it worked. I only saw my brother had found the trick: Father could hold his gaze longer when there was less of him to look at.
+But I was there. I said it.
 
-That was the first lesson Ermerus Ventari took from people.
+After that, Ermerus understood. That he had arrived with a death attached to him. That his face was not only his face. That his mouth could send Father somewhere none of us could follow.
+
+Instead, he watched.
+
+He watched Father’s face in the moments before the stillness came. He watched me become careful. He watched Ilunis grow loud in a house that had stopped listening.
+
+Teresta learned early to keep herself elsewhere.
+
+We were all children inside Father’s grief.
+
+Each of us found a way to survive it.
+
+Ermerus learned to disappear.
+
+I learned to be useful.
+
+Ilunis learned to demand what would never be given.
+
+Teresta learned that distance was safer than hope.
+
+And none of us knew yet what would happen when Viriatus came.
