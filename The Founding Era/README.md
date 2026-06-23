@@ -9,3 +9,4 @@ The piece demonstrates how background history can be transformed into character-
 ## Parts
 
 - [Part 01 — Rutare's Confession](./Part%2001%20%E2%80%94%20Rutare's%20Confession.md)
+- [Part 02 — The Mouth That Cost Him Everything](./Part%2002%20%E2%80%94%20The%20Mouth%20That%20Cost%20Him%20Everything.md)
