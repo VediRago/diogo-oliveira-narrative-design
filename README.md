@@ -14,7 +14,7 @@ This prototype tests layered reactivity through city state, faction pressure, lo
 
 I began studying narrative design in May 2026 while working full-time outside the games industry.
 
-AI was used throughout this process as a tool for discussion, organization, stress testing, and review. Working this way helped me learn more about my own process, strengths, limitations, and creative judgment, while also learning where AI can help and where it can interfere by adding or changing meaning I did not intend.
+I used AI during the process for discussion, organization, stress testing, and review. The work still depended on my own judgement: deciding what belonged, what distorted meaning, and what needed to be rewritten or removed.
 
 ## Start Here
 
