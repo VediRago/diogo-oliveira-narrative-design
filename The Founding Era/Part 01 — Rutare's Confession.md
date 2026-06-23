@@ -16,4 +16,3 @@ Shame is all I feel as I lie upon my deathbed, watching my descendants carry a b
 
 Viriatus.
 
-To be continued.
