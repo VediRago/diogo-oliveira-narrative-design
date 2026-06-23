@@ -30,6 +30,10 @@ From there, the main case studies show the process moving from world pressure, t
 
 [Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
+## Prose Series
+
+[The Founding Era](./The%20Founding%20Era/) is a prose series developed from the worldbuilding foundation of NOEME. Told through Rutare Ventari's final recollections, it follows the rise of House Ventari, the exploitation of Viriatus, and the origin of Regulatus.
+
 The [development diary](vault/development-diary/README.md) records process notes, dated decisions, and learning milestones behind the case studies.
 
 ## Project Link
