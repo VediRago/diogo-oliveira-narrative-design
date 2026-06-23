@@ -1,6 +1,6 @@
 # Chapter Two: The Sentence I Gave Him
 
-He had not yet been told he had Mother’s mouth. The knowledge came from a sibling too young to know the damage a sentence could do.
+Ermerus had not yet been told he had Mother’s mouth. The knowledge came from a sibling too young to know the damage a sentence could do.
 
 That sibling was me. Gods help me. I was the one who told him.
 
