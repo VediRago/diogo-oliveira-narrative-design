@@ -1,4 +1,4 @@
-# Chapter Two: The Sentence I Gave Him
+# Chapter Three: The Sentence I Gave Him
 
 Before Ermerus could stand, he knew something about him repelled Father.
 
