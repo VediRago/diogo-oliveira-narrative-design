@@ -1,4 +1,4 @@
-# Part 01 — Rutare's Confession
+# Chapter One: Rutare's Confession
 
 These are the recollections of my past.
 
