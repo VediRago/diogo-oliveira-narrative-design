@@ -1,10 +1,10 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+← [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # Empty Shelves Quest Test
 
 Empty Shelves tests whether a quest can emerge from NPC pressure instead of being placed on top of the world.
 
-The quest begins with a block worker in Vys. They carry an inherited [Regulatus](../wiki/regulatus.md) layer because the city teaches work, ration systems, records, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
+The quest begins with a block worker in Vys. They carry an inherited [Regulatus](layer-1-regulatus.md) layer because the city teaches work, ration systems, records, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
 
 They begin as someone trying to survive inside the system.
 
