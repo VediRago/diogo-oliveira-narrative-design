@@ -1,4 +1,4 @@
-← [Back to Case Study 01](../../case-studies/building-a-world-to-test-quest-design.md)
+← [Back to Building a World to Test Quest Design](../../case-studies/building-a-world-to-test-quest-design.md)
 
 # Novacula
 
