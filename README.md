@@ -31,7 +31,7 @@ From world pressure, to method, to prototype, to long-form narrative architectur
 
 [Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
 
-[Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
+[Building NPCs Through Layered Pressure](case-studies/building-npcs-through-layered-pressure.md) applies the same design thinking to individual characters — system relationship, location pressure, group pressure, and personal state stacked into believable behavior.
 
 ## Related Projects
 
