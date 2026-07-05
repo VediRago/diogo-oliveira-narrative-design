@@ -88,7 +88,7 @@ Together with the previous two case studies, this shows the same method holding 
 
 ## Evidence
 
-- [Layer Test Twine Prototype →](https://vedirago.github.io/diogo-oliveira-narrative-design/Layer%20Test%20Twine/index.html)
+- [Layer Test Twine Prototype →](https://vedirago.github.io/diogo-oliveira-narrative-design/)
 - [Twine Passage Rules — Noeme Systems](../vault/case-study-03/twine-passage-rules.md)
 
 ---
