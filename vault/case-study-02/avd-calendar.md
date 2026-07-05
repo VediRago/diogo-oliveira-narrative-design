@@ -1,8 +1,8 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+← [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # AVD Calendar
 
-The AVD calendar is used in Case Study 02 as an example of atmosphere becoming history.
+The AVD calendar is used in **Building a Modular Narrative Method** as an example of atmosphere becoming history.
 
 Viriatus's death creates public grief, pride, confusion, reverence, and fear of disorder. That feeling does not remain a private event. It is repeated through ceremony, record, doctrine, and public memory.
 
