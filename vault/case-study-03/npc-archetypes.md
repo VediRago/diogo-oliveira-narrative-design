@@ -1,4 +1,4 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+← [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # NPC Archetypes
 
