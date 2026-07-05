@@ -1,18 +1,29 @@
 # Vault
 
-This folder contains supporting concept pages and reference material for the narrative design portfolio.
+Supporting evidence for the narrative design case studies.
 
-The main case studies should stay readable on their own.
+The main case studies remain readable on their own. This vault provides the supporting evidence for readers who want to explore the underlying methods in more detail.
 
-The vault exists for readers who want to follow specific terms, people, factions, histories, systems, and process notes in more depth.
+## Case Study 01
 
-## Sections
+[Case Study 01 Support](case-study-01/README.md)
 
-[Wiki](wiki/README.md) contains short concept pages for recurring names, systems, factions, and terms.
+Historical and worldbuilding evidence.
 
-[Noeme Case](Noeme_case/README.md) contains linked concept files for the Noeme narrative design case study.
+## Case Study 02
 
-[Development Diary](development-diary/README.md) contains dated process notes, learning milestones, and behind-the-scenes decisions.
+[Case Study 02 Support](case-study-02/README.md)
 
----
-© Diogo Oliveira — June 2026
+Method blueprints, validation, and extension evidence.
+
+## Case Study 03
+
+[Case Study 03 Support](case-study-03/README.md)
+
+Prototype rules and layered reactivity evidence.
+
+## Case Study 04
+
+[Case Study 04 Support](case-study-04/README.md)
+
+NPC modeling and layered behavior evidence.
