@@ -1,8 +1,8 @@
-↩ [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+↩ [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
-# Case Study 03 Support
+# Testing the Method Through Layered Reactivity Support
 
-This folder contains support files for Case Study 03: Testing the Method Through Layered Reactivity.
+This folder contains support files for **Testing the Method Through Layered Reactivity**.
 
 These files explain the layered reactivity model used in the Twine prototype.
 
