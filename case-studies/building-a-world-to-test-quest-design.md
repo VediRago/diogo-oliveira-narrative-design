@@ -18,7 +18,7 @@ So I started by building the conditions around the quests instead of the quests 
 
 The first problem was time. Time anchors a civilization — it creates points in the past that generate pressure around the world the player steps into. Even when the player does not know every historical detail, those points help maintain plausibility. I created the [AVD calendar](../vault/case-study-01/avd-calendar.md) to establish a shared reference point between the setting's past and present.
 
-That immediately created the next problem: why did the calendar begin there? A calendar without an origin felt arbitrary. To anchor the history of a civilization, the starting point needed to matter — it needed to represent something important enough that people would continue measuring time from it generations later. I decided the calendar would begin from a statue already mentioned in [NOEME](https://github.com/VediRago/Noeme), giving the calendar an anchor already connected to the project.
+That immediately created the next problem: why did the calendar begin there? A calendar without an origin felt arbitrary. To anchor the history of a civilization, the starting point needed to matter — it needed to represent something important enough that people would continue measuring time from it generations later. I decided the calendar would begin from a statue already mentioned in [NOEME](https://github.com/VediRago/diogo-oliveira-noeme), giving the calendar an anchor already connected to the project.
 
 The statue then needed a history. That history led to the creation of [Viriatus](../vault/case-study-01/viriatus.md).
 
