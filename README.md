@@ -11,7 +11,7 @@ Part of a larger body of work — see [Home →](https://github.com/VediRago/dio
 
 ## Playable Prototype
 
-[Play the Layer Test Twine Prototype](https://vedirago.github.io/diogo-oliveira-portfolio/Layer%20Test%20Twine/index.html)
+[Play the Layer Test Twine Prototype](https://vedirago.github.io/diogo-oliveira-narrative-design/Layer%20Test%20Twine/index.html)
 
 This prototype tests layered reactivity through city state, faction pressure, local behavior, and NPC memory.
 
