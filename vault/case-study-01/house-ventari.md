@@ -14,7 +14,7 @@ To the public, Regulatus became a system of order, duty, and belonging. To House
 
 ## Erit Note
 
-The first letters of Ermerus, Rutare, Ilunis, and Teresta spell ERIT — the name of one of the fragments in the original [NOEME](https://github.com/VediRago/Noeme) story. Erit carries the sense of will be / shall be, mirroring Sera, another fragment, whose name means the same. The four founding lines are linked to Erit not just in name, but in meaning — what the house set in motion is what she will become.
+The first letters of Ermerus, Rutare, Ilunis, and Teresta spell ERIT — the name of one of the fragments in the original [NOEME](https://github.com/VediRago/diogo-oliveira-noeme) story. Erit carries the sense of will be / shall be, mirroring Sera, another fragment, whose name means the same. The four founding lines are linked to Erit not just in name, but in meaning — what the house set in motion is what she will become.
 
 ---
 
