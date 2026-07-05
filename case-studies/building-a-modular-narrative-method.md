@@ -1,182 +1,60 @@
-# Case Study 02 — Building a Modular Narrative Method
+# Building a Modular Narrative Method
 
-← [Back to README](../README.md)
+*One of the applied methods behind this narrative design portfolio.*
 
-## Main Problem
+## The Method
 
-As the Erit worldbuilding project grew, several useful chains appeared.
+A single method should scale from a single character to a full institution without needing a different formula at each size.
 
-The risk was method drift.
+The rule: do not extend the chain unless the next layer is earned by everything before it. This is one formalized branch of the general worldbuilding method — specifically, how far a chain can be extended before it stops being earned.
 
-If every idea needed a different formula, the process would become harder to use and harder to explain.
+## Explanation
 
-## Main Solution
+As the Erit worldbuilding grew, useful chains kept appearing — but if every new idea needed its own formula, the process would become harder to use and harder to explain. Method drift was the real risk, not complexity itself.
 
-I kept one [modular method](../vault/case-study-02/modular-method.md).
+A single modular method chain, extended only when the story actually demands the next layer, avoids that drift. This works because of an extension rule: each added layer works as a constraint through meaning, reducing which possibilities are still valid rather than adding more of them. That's what keeps a longer chain from feeling arbitrary — a later layer can only be added once everything beneath it has actually earned it.
 
-The rule became:
+## Application
 
-> Do not extend the chain unless the next layer is earned.
+Applying the method chain exposed four scales, each one earning the next layer from the one before it.
 
-That [extension rule](../vault/case-study-02/extension-rule.md) helped decide when the next step was justified.
+### Character Level
 
-## Problem 01 — Character Level
+Base chain: Experience → Emotion → Reason → Behavior.
 
-Some ideas only needed enough structure to explain what shaped a character and how they acted.
+**Viriatus.** His displacement created fear, longing, and a need for belonging. That emotion became a reason: order could protect what chaos destroyed. That reason became behavior: he accepted training, became useful, and released pressure through conquest.
 
-## Solution
+This same chain holds at finer resolution too — see Building NPCs Through Layered Pressure for how it applies to any individual character, not just a historical founder.
 
-I used the base [method chain](../vault/case-study-02/method-chain.md):
+### Place Level
 
-Experience  
-↓  
-Emotion  
-↓  
-Reason  
-↓  
-Behavior
+Characters are explained through behavior. A city, faction, or culture creates a feeling that outlasts any single person — the base chain needed a layer for that. Extended chain: → Atmosphere.
 
-## Example — Viriatus
+**A Regulatus-shaped city.** Generations live under records, hierarchy, inspections, family honor, and civic gratitude — creating pride, fear of disorder, and a desire to be seen as worthy. Citizens police themselves, clerks deny exceptions, guards monitor public speech, parents teach gratitude. As those behaviors repeat, the city itself begins to feel orderly, proud, watched, formal, and quietly controlling. Atmosphere emerges from repeated behavior.
 
-[Viriatus](../vault/case-study-02/viriatus.md) began at this level.
+The same mechanism was tested again on unrelated material — see Atmosphere Emergence — and held on a second, independently-built setting, not just the one it was first observed in.
 
-His displacement created fear, longing, and a need for belonging.
+### History Level
 
-That emotion became a reason: order could protect what chaos destroyed.
+Some atmospheres outlast a single place or generation. When repeated behavior survives through time, it can become law, ritual, record, myth, institution, or inherited belief — atmosphere needed historical form. Extended chain: → History.
 
-That reason became behavior: he accepted training, became useful, and released pressure through conquest.
+**The AVD calendar.** Viriatus's death created public grief, pride, confusion, and fear of disorder. That feeling repeated through ceremony, record, doctrine, and public memory — durable enough, over time, to become a calendar. The AVD calendar begins when Regulatus is publicly declared: atmosphere turning into history.
 
-## Problem 02 — Place Level
+This isn't a single-event exception — see History Level — Era Timeline for how the same logic holds across three thousand years of institutional change, each stage a direct consequence of the one before it.
 
-Characters could be explained through behavior, while cities, factions, and cultures created feelings that existed beyond any single person.
+### Gameplay Level
 
-The base method explained individuals. A place needed its own felt condition.
+History and atmosphere explain the world. The next step was turning that pressure into something playable — quests emerging from the world instead of sitting on top of it. Extended chain: → Quest Logic.
 
-## Solution
-
-I added atmosphere.
-
-Experience  
-↓  
-Emotion  
-↓  
-Reason  
-↓  
-Behavior  
-↓  
-Atmosphere
-
-Atmosphere became the emotional weather created by repeated behavior.
-
-## Example — A Regulatus-Shaped City
-
-Generations of citizens live under [Regulatus](../vault/case-study-02/regulatus.md), records, hierarchy, inspections, family honor, and civic gratitude.
-
-This creates pride, fear of disorder, and a desire to be seen as worthy.
-
-Citizens begin policing themselves, clerks deny exceptions, guards monitor public speech, and parents teach gratitude.
-
-As those behaviors repeat, the city begins to feel orderly, proud, watched, beautiful, formal, and quietly controlling.
-
-Atmosphere emerges from repeated behavior.
-
-## Problem 03 — History Level
-
-Some atmospheres lasted longer than a single place or generation.
-
-When repeated behavior survived through time, it could become law, ritual, record, myth, institution, or inherited belief.
-
-At that point, atmosphere needed historical form.
-
-## Solution
-
-I added history.
-
-Experience  
-↓  
-Emotion  
-↓  
-Reason  
-↓  
-Behavior  
-↓  
-Atmosphere  
-↓  
-History
-
-History became atmosphere that persisted through time.
-
-## Example — AVD Calendar
-
-[Viriatus's death](../vault/case-study-02/viriatus.md) created public grief, pride, confusion, and fear of disorder.
-
-That feeling was repeated through ceremony, record, doctrine, and public memory.
-
-Over time, the atmosphere around his death became durable enough to become a calendar.
-
-The [AVD calendar](../vault/case-study-02/avd-calendar.md) begins when [Regulatus](../vault/case-study-02/regulatus.md) is publicly declared, turning atmosphere into history.
-
-## Problem 04 — Gameplay Level
-
-History and atmosphere helped explain the world. The next step was turning that pressure into playable situations.
-
-I wanted quests to emerge from the world instead of being placed on top of it.
-
-## Solution
-
-I added quest logic as the final possible layer.
-
-Experience  
-↓  
-Emotion  
-↓  
-Reason  
-↓  
-Behavior  
-↓  
-Atmosphere  
-↓  
-Quest Logic
-
-A quest became the playable expression of everything that came before it.
-
-## Example — Chip Removal
-
-A person trying to join the rebels needs to disappear from official systems.
-
-Their chip ties them to identification, records, medicine, and surveillance.
-
-That creates fear, urgency, distrust, and the desire to disappear.
-
-They begin avoiding clinics, hiding symptoms, seeking unofficial help, and treating medical visibility as a threat.
-
-The atmosphere becomes one of suspicion, dependency, and bodily control.
-
-The quest emerges naturally from that pressure.
-
-The player steps into a situation already created by the world.
+**Chip removal.** Someone trying to join the rebels needs to disappear from official systems. Their chip ties them to identification, records, medicine, and surveillance — creating fear, urgency, distrust, and the desire to disappear. They avoid clinics, hide symptoms, seek unofficial help, treat medical visibility as a threat. The atmosphere becomes one of suspicion, dependency, and bodily control. The quest emerges from that pressure — the player steps into a situation the world already created.
 
 ## Result
 
-The same method could now be applied at different scales without forcing unnecessary complexity.
+The same method holds at every scale, without forcing complexity where it isn't earned. A character might only need Experience → Emotion → Reason → Behavior. A city needs Atmosphere. An institution needs History. A quest needs the full chain to Quest Logic. Only the depth changes.
 
-A character might only need:
+This held again in later testing, applied to worldbuilding, factions, NPCs, and quest generation independently — the chain wasn't a one-time result specific to Erit's founding sequence.
 
-Experience → Emotion → Reason → Behavior
-
-A city might need atmosphere.
-
-An institution might need history.
-
-A quest might reach quest logic.
-
-The method remained the same.
-
-Only the depth changed.
-
-This also revealed a useful design insight: each layer works as a [meaningful constraint](../vault/case-study-02/constraint-through-meaning.md), reducing weak possibilities instead of adding complexity.
-
-## Support Files
+## Evidence
 
 - [Modular Method](../vault/case-study-02/modular-method.md)
 - [Extension Rule](../vault/case-study-02/extension-rule.md)
@@ -185,6 +63,9 @@ This also revealed a useful design insight: each layer works as a [meaningful co
 - [Viriatus](../vault/case-study-02/viriatus.md)
 - [Regulatus](../vault/case-study-02/regulatus.md)
 - [AVD Calendar](../vault/case-study-02/avd-calendar.md)
+- Atmosphere Emergence
+- History Level — Era Timeline
 
 ---
-© Diogo Oliveira — June 2026
+
+← Previous: [Building a World to Test Quest Design](./building-a-world-to-test-quest-design.md) · [README](../README.md) · Next: [Testing the Method Through Layered Reactivity](./testing-the-method-through-layered-reactivity.md) →
