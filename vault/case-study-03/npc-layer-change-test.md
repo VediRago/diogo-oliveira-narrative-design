@@ -1,10 +1,10 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+← [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # NPC Layer Change Test
 
 This test checks whether player-created experience can change an NPC layer without making the change feel sudden or artificial.
 
-The starting NPC is a block worker in Vys. They begin with a [Regulatus](../wiki/regulatus.md)-shaped view of the world because the city teaches work, records, ration systems, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
+The starting NPC is a block worker in Vys. They begin with a [Regulatus](layer-1-regulatus.md)-shaped view of the world because the city teaches work, records, ration systems, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
 
 They are not a rebel at the start. They are someone trying to survive inside the system.
 
