@@ -20,6 +20,9 @@ The entries are not intended to function as canon reference files or encyclopedi
 4. [2026-06-08](2026-06-08.md)  
    Tests the Erit / Vys layer method in Twine and shows how worldbuilding pressure can become quest structure.
 
+5. [2026-07-04](2026-07-04.md)  
+   Records the point where the portfolio architecture became stable and implementation replaced redesign as the main task.
+
 ## Design Principle
 
 The diary follows a simple rule:
