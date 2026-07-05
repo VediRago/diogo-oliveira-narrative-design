@@ -45,7 +45,7 @@ From world pressure, to method, to prototype, to long-form narrative architectur
 
 The methods documented in this repository emerged while building the Erit world to solve narrative design problems, beginning with believable quest design.
 
-→ [NOEME](https://github.com/VediRago/Noeme) applies those methods to a long-form mystery through screenplay, cosmology, blueprints, and production systems.
+→ [NOEME](https://github.com/VediRago/diogo-oliveira-noeme) applies those methods to a long-form mystery through screenplay, cosmology, blueprints, and production systems.
 
 → [The Founding Era](https://github.com/VediRago/diogo-oliveira-the-founding-era) is the primary prose application of the same worldbuilding, documented separately as its own repository.
 
