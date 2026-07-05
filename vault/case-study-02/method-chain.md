@@ -1,4 +1,4 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+← [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # Method Chain
 
