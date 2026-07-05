@@ -1,8 +1,8 @@
-← [Back to Case Study 01](../../case-studies/building-a-world-to-test-quest-design.md)
+← [Back to Building a World to Test Quest Design](../../case-studies/building-a-world-to-test-quest-design.md)
 
-# Case Study 01 Support
+# Building a World to Test Quest Design Support
 
-This folder contains support files for Case Study 01: Building a World to Test Quest Design.
+This folder contains support files for **Building a World to Test Quest Design**.
 
 These files explain the historical and worldbuilding pieces that support the case.
 
