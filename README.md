@@ -45,10 +45,6 @@ The methods documented in this repository emerged while building the Erit world 
 
 → [The Founding Era](https://github.com/VediRago/diogo-oliveira-the-founding-era) is the primary prose application of the same worldbuilding, documented separately as its own repository.
 
-## Process
-
-The [development diary](vault/development-diary/README.md) records the development process itself—dated decisions, experiments, and learning milestones behind the case studies.
-
 ## Contact
 
 GitHub: [VediRago](https://github.com/VediRago)
