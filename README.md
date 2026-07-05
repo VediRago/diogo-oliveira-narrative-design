@@ -1,8 +1,13 @@
-# Diogo Oliveira — Narrative Design Portfolio
+# Diogo Oliveira
+### Narrative Systems, Discovered Through Worldbuilding Pressure
 
-I build narrative systems through pressure, consequence, world logic, and player / reader perception.
+This repository documents how I build narrative systems—turning pressure, consequence, world logic, and player/reader perception into game-facing structure.
 
-This portfolio focuses on process: how I approach narrative design problems, test methods, document decisions, and turn story ideas into game-facing structure.
+Part of a larger body of work — see [Home →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
+
+**[Noeme Systems →](https://github.com/VediRago/diogo-oliveira-noeme-systems)** — where these methods become production systems, blueprints, and worldbuilding reference.
+
+---
 
 ## Playable Prototype
 
@@ -18,9 +23,7 @@ I used AI during the process for discussion, organization, stress testing, and r
 
 ## Start Here
 
-Start with [The First Note](case-studies/first-note-origin.md), the dated origin point for the process shown in this portfolio.
-
-From there, the main case studies show the process moving from world pressure, to method, to prototype, to long-form narrative architecture:
+From world pressure, to method, to prototype, to long-form narrative architecture:
 
 [Building a World to Test Quest Design](case-studies/building-a-world-to-test-quest-design.md) shows how a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
 
@@ -30,23 +33,18 @@ From there, the main case studies show the process moving from world pressure, t
 
 [Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
-## Prose Series
+## Related Projects
 
-[The Founding Era](./The%20Founding%20Era/) is a prose series developed from the worldbuilding foundation of NOEME. Told through Rutare Ventari's final recollections, it follows the rise of House Ventari, the exploitation of Viriatus, and the origin of Regulatus.
+The methods documented in this repository emerged while building the Erit world to solve narrative design problems, beginning with believable quest design.
 
-The [development diary](vault/development-diary/README.md) records process notes, dated decisions, and learning milestones behind the case studies.
+→ [NOEME](https://github.com/VediRago/Noeme) applies those methods to a long-form mystery through screenplay, cosmology, blueprints, and production systems.
 
-## Project Link
+→ [The Founding Era](https://github.com/VediRago/diogo-oliveira-the-founding-era) is the primary prose application of the same worldbuilding, documented separately as its own repository.
 
-[NOEME](https://github.com/VediRago/Noeme) is a project shaped into a pilot, containing narrative methods, cosmology, screenplay, prose, blueprints, and a story bible.
+## Process
 
-## Supporting Files
-
-The case studies link to selected support files when extra context is useful. Those files are not required reading, but they show how the process developed underneath the main portfolio pages.
+The [development diary](vault/development-diary/README.md) records the development process itself—dated decisions, experiments, and learning milestones behind the case studies.
 
 ## Contact
 
 GitHub: [VediRago](https://github.com/VediRago)
-
----
-© Diogo Oliveira — June 2026
