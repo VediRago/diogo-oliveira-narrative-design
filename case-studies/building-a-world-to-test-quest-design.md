@@ -10,9 +10,7 @@ A quest should feel like it emerged from the world around it: its history, insti
 
 The method is to build the conditions that could generate quest opportunities, then let quests appear as consequences of those conditions. This applies a more general [worldbuilding method](../vault/case-study-01/worldbuilding-method.md) to one specific problem: quest design.
 
----
-
-## The Problem
+## Explanation
 
 Creating quests from nothing did not feel immersive.
 
@@ -21,8 +19,6 @@ I could invent quest ideas, but that did not prove the quests belonged to a worl
 I wanted quests to originate from the environment around them, from pressure already established.
 
 That meant the world needed enough structure for quest opportunities to appear as consequences rather than isolated tasks.
-
-## The Fix
 
 I started by building the conditions around the quests instead of the quests themselves.
 
@@ -74,11 +70,7 @@ Feeling alone does not create quests. It needed to affect how people behaved.
 
 Regulatus became a lens through which characters interpreted the world. It shaped what they justified, what they feared, what they were proud of, and what they were willing to protect.
 
-## Result
-
-The original goal was quest design.
-
-The chain became:
+The original goal was quest design. The chain became:
 
 ```text
 experience
