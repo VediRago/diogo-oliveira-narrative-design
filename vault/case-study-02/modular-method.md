@@ -1,8 +1,8 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+← [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # Modular Method
 
-This support page defines the modular narrative method used in Case Study 02.
+This support page defines the modular narrative method used in **Building a Modular Narrative Method**.
 
 The method begins with a simple chain:
 
