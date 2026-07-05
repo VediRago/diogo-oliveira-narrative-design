@@ -8,10 +8,10 @@ The entries are not intended to function as canon reference files or encyclopedi
 
 ## Reading Order
 
-1. **2026-06-04** — Establishes the first Erit worldbuilding foundation, including the displaced founder, calendar origins, Regulatus, and the first fit map connecting Erit to Fragments.
-2. **2026-06-05** — Refines the foundation through House Ventari, Viriatus, House Devaar, and the relationship between character motivation and social systems.
-3. **2026-06-06** — Records the transition from raw development notes into organized structure and support material.
-4. **2026-06-08** — Tests the Erit / Vys layer method in Twine and shows how worldbuilding pressure can become quest structure.
+1. [2026-06-04](2026-06-04.md) — Establishes the first Erit worldbuilding foundation, including the displaced founder, calendar origins, Regulatus, and the first fit map connecting Erit to Fragments.
+2. [2026-06-05](2026-06-05.md) — Refines the foundation through House Ventari, Viriatus, House Devaar, and the relationship between character motivation and social systems.
+3. [2026-06-06](2026-06-06.md) — Records the transition from raw development notes into organized structure and support material.
+4. [2026-06-08](2026-06-08.md) — Tests the Erit / Vys layer method in Twine and shows how worldbuilding pressure can become quest structure.
 
 ## Design Principle
 
