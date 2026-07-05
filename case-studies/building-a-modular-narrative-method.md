@@ -32,7 +32,7 @@ Characters are explained through behavior. A city, faction, or culture creates a
 
 **A Regulatus-shaped city.** Generations live under records, hierarchy, inspections, family honor, and civic gratitude — creating pride, fear of disorder, and a desire to be seen as worthy. Citizens police themselves, clerks deny exceptions, guards monitor public speech, parents teach gratitude. As those behaviors repeat, the city itself begins to feel orderly, proud, watched, formal, and quietly controlling. Atmosphere emerges from repeated behavior.
 
-The same mechanism was tested again on unrelated material — see Atmosphere Emergence — and held on a second, independently-built setting, not just the one it was first observed in.
+The same mechanism was tested again on unrelated material — see [Atmosphere Emergence](../vault/case-study-02/atmosphere-emergence.md) — and held on a second, independently-built setting, not just the one it was first observed in.
 
 ### History Level
 
@@ -63,7 +63,7 @@ This held again in later testing, applied to worldbuilding, factions, NPCs, and 
 - [Viriatus](../vault/case-study-02/viriatus.md)
 - [Regulatus](../vault/case-study-02/regulatus.md)
 - [AVD Calendar](../vault/case-study-02/avd-calendar.md)
-- Atmosphere Emergence
+- [Atmosphere Emergence](../vault/case-study-02/atmosphere-emergence.md)
 - History Level — Era Timeline
 
 ---
