@@ -1,8 +1,8 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+← [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # Regulatus
 
-Regulatus is used in Case Study 02 as an example of behavior becoming atmosphere.
+Regulatus is used in **Building a Modular Narrative Method** as an example of behavior becoming atmosphere.
 
 Across generations, citizens live under records, hierarchy, inspections, family honor, civic gratitude, and inherited order. These pressures create pride, shame, fear of disorder, and a desire to be seen as worthy.
 
