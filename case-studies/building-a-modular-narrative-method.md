@@ -40,7 +40,7 @@ Some atmospheres outlast a single place or generation. When repeated behavior su
 
 **The AVD calendar.** Viriatus's death created public grief, pride, confusion, and fear of disorder. That feeling repeated through ceremony, record, doctrine, and public memory — durable enough, over time, to become a calendar. The AVD calendar begins when Regulatus is publicly declared: atmosphere turning into history.
 
-This isn't a single-event exception — see History Level — Era Timeline for how the same logic holds across three thousand years of institutional change, each stage a direct consequence of the one before it.
+This isn't a single-event exception — see [History Level — Era Timeline](../vault/case-study-02/history-level-era-timeline.md) for how the same logic holds across three thousand years of institutional change, each stage a direct consequence of the one before it.
 
 ### Gameplay Level
 
@@ -64,7 +64,7 @@ This held again in later testing, applied to worldbuilding, factions, NPCs, and 
 - [Regulatus](../vault/case-study-02/regulatus.md)
 - [AVD Calendar](../vault/case-study-02/avd-calendar.md)
 - [Atmosphere Emergence](../vault/case-study-02/atmosphere-emergence.md)
-- History Level — Era Timeline
+- [History Level — Era Timeline](../vault/case-study-02/history-level-era-timeline.md)
 
 ---
 
