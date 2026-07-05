@@ -1,4 +1,4 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+↩ [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # Case Study 03 Support
 
@@ -14,11 +14,8 @@ These files explain the layered reactivity model used in the Twine prototype.
 
 ## NPC And Faction Behavior
 
-[NPC Archetypes](npc-archetypes.md), [NPC Emotional State Model](npc-emotional-state-model.md), and [Faction Pressure Layers](faction-pressure-layers.md) show how people and factions interpret the same pressure differently.
+[NPC Archetypes](npc-archetypes.md) and [Faction Pressure Layers](faction-pressure-layers.md) show how people and factions interpret the same pressure differently.
 
 ## Prototype Tests
 
 [Fluid And Locked Layers](fluid-and-locked-layers.md), [District Reaction Test](district-reaction-test.md), [NPC Layer Change Test](npc-layer-change-test.md), and [Empty Shelves Quest Test](empty-shelves-quest-test.md) document the early reactivity tests.
-
----
-© Diogo Oliveira — June 2026
