@@ -1,8 +1,8 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+← [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # Viriatus
 
-Viriatus is used in Case Study 02 as the character-level example for the modular method.
+Viriatus is used in **Building a Modular Narrative Method** as the character-level example for the modular method.
 
 His story begins with experience: displacement into a world he does not understand, discovery by Servan, and adoption into House Ventari. That experience creates fear, longing, and a need for belonging.
 
