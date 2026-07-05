@@ -1,8 +1,8 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+← [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # Faction Pressure Principles
 
-This file records the faction logic used by Case Study 03.
+This file records the faction logic used by **Testing the Method Through Layered Reactivity**.
 
 A faction is a team and a pressure system.
 
