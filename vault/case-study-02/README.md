@@ -1,12 +1,19 @@
-← [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+↩ [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
 
-# Case Study 02 Vault
+# Case Study 02 Support
 
-This folder contains support material for **Case Study 02 — Building a Modular Narrative Method**.
+This folder contains support files for Case Study 02: Building a Modular Narrative Method.
 
-These files are not meant to replace the case study. They exist to give extra context for readers who want to see the method underneath the portfolio piece.
+These files explain the modular narrative method and the evidence behind its validation.
 
-The goal is to keep Case Study 02 readable while letting the Vault hold the deeper supporting material.
+## Files
 
----
-© Diogo Oliveira — June 2026
+- [Modular Method](modular-method.md)
+- [Extension Rule](extension-rule.md)
+- [Method Chain](method-chain.md)
+- [Constraint Through Meaning](constraint-through-meaning.md)
+- [Viriatus](viriatus.md)
+- [Regulatus](regulatus.md)
+- [AVD Calendar](avd-calendar.md)
+- [Atmosphere Emergence](atmosphere-emergence.md)
+- [History Level — Era Timeline](history-level-era-timeline.md)
