@@ -1,11 +1,11 @@
 # Diogo Oliveira
 ### Narrative Systems, Discovered Through Worldbuilding Pressure
 
-This repository documents how I build narrative systems—turning pressure, consequence, world logic, and player/reader perception into game-facing structure.
+This repository documents how I build narrative systems by turning pressure, consequence, world logic, and reader/player perception into usable structure.
 
-Part of a larger body of work — see [Home →](https://github.com/VediRago/diogo-oliveira) if useful, or continue below.
+Part of a larger portfolio system: [Home](https://github.com/VediRago/diogo-oliveira)
 
-**[Noeme Systems →](https://github.com/VediRago/diogo-oliveira-noeme-systems)** — where these methods become production systems, blueprints, and worldbuilding reference.
+Related method repository: [Noeme Systems](https://github.com/VediRago/diogo-oliveira-noeme-systems)
 
 ---
 
@@ -17,13 +17,13 @@ This prototype tests layered reactivity through city state, faction pressure, lo
 
 ## About This Portfolio
 
-I began studying narrative design in May 2026 while working full-time outside the games industry.
+This repository focuses on transferable narrative design methods.
 
-I used AI during the process for discussion, organization, stress testing, and review. The work still depended on my own judgement: deciding what belonged, what distorted meaning, and what needed to be rewritten or removed.
+Production-specific systems belong in Noeme Systems. Finished narrative products belong in their own repositories.
 
 ## Start Here
 
-From world pressure, to method, to prototype, to long-form narrative architecture:
+From world pressure, to method, to prototype:
 
 [Building a World to Test Quest Design](case-studies/building-a-world-to-test-quest-design.md) shows how a practical need for believable quests led to a calendar, history, institutions, factions, and world pressure.
 
@@ -31,19 +31,9 @@ From world pressure, to method, to prototype, to long-form narrative architectur
 
 [Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
 
-[Building NPCs Through Layered Pressure](case-studies/building-npcs-through-layered-pressure.md) applies the same design thinking to individual characters — system relationship, location pressure, group pressure, and personal state stacked into believable behavior.
-
-## Related Projects
-
-The methods documented in this repository emerged while building the Erit world to solve narrative design problems, beginning with believable quest design.
-
-→ [NOEME](https://github.com/VediRago/Noeme) applies those methods to a long-form mystery through screenplay, cosmology, blueprints, and production systems.
-
-→ [The Founding Era](https://github.com/VediRago/diogo-oliveira-the-founding-era) is the primary prose application of the same worldbuilding, documented separately as its own repository.
-
 ## Process
 
-The [development diary](vault/development-diary/README.md) records the development process itself—dated decisions, experiments, and learning milestones behind the case studies.
+The [development diary](vault/development-diary/README.md) records the development process behind the case studies.
 
 ## Contact
 
