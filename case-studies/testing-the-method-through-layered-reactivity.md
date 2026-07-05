@@ -93,4 +93,4 @@ Together with the previous two case studies, this shows the same method holding 
 
 ---
 
-← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md)
+← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md) · Next: [Building NPCs Through Layered Pressure](./building-npcs-through-layered-pressure.md) →
