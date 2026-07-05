@@ -20,35 +20,35 @@ Testing the method in Twine exposed four dependent design problems, each one cre
 
 ### Avoiding Simple Reputation
 
-Treating every action as a direct raise/lower on one faction produces a reactive but shallow world — the player moves numbers instead of changing pressure inside a living place.
+Treating every action as a direct raise or lower on one faction produces a reactive but shallow world. The player moves numbers instead of changing pressure inside a living place.
 
-The fix: treat each layer as a different scale of influence.
+The fix was to treat each layer as a different scale of influence:
 
-- **Layer 3 — NPC / Local Behavior:** individual NPCs, small groups, local trust, fear, access, personal consequences
-- **Layer 2 — Faction Pressure:** organized groups, public authority, rebels, institutional force, coordinated action
-- **Layer 1 — City / World State:** the wider condition created by accumulated pressure
+- **Layer 3 — NPC / Local Behavior:** individual NPCs, small groups, local trust, fear, access, and personal consequence.
+- **Layer 2 — Faction Pressure:** organized groups, public authority, institutional force, and coordinated action.
+- **Layer 1 — City / World State:** the wider condition created by accumulated pressure.
 
 Local behavior and faction pressure can now affect the city while keeping separate roles.
 
 ### Keeping Factions Stable
 
-If player action could change a faction too easily, factions would stop feeling like institutions with memory, ideology, and limits. Scutis should remain Scutis. Novacula should remain Novacula — the city state can shift without rewriting what those factions are.
+If player action could change a faction too easily, factions would stop feeling like institutions with memory, ideology, and limits. Scutis should remain Scutis. Novacula should remain Novacula. The city state can shift without rewriting what those factions are.
 
-The fix: Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities. If Scutis currently has the upper hand, Novacula has a harder time regaining power through faction pressure alone — the player may need to build influence through NPCs and local reactions first before faction pressure becomes effective again. This creates an anti-snowball effect.
+The fix was to let Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities. If Scutis currently has the upper hand, Novacula has a harder time regaining power through faction pressure alone. The player may need to build influence through NPCs and local reactions first before faction pressure becomes effective again.
 
 This same principle — identity stays fixed while effectiveness fluctuates with context — can also apply at individual scale. That production-facing extension belongs in Noeme Systems rather than this Narrative Design case study.
 
 ### Making City State Reversible
 
-A higher Scutis tier needs to be challengeable later; Novacula gaining ground still needs to leave room for order to return. The city needed to be stateful, but reversible.
+A stronger Scutis tier needs to be challengeable later. Novacula gaining ground still needs to leave room for order to return. The city needed to be stateful, but reversible.
 
-The fix: city state changes through accumulated pressure, then reshapes future context. If the player lowers Scutis control through Novacula pressure, NPC influence recalculates through the new city context. No single path can permanently dominate the city state.
+The fix was to let city state change through accumulated pressure, then reshape future context. No single path can permanently dominate the city state.
 
 ### Implementing the Loop in Twine
 
 The prototype needed to test this logic without turning every passage into a full simulation.
 
-The fix: quest passages only set the current layer values.
+Quest passages only set temporary layer values:
 
 ```twine
 (set: $layer2CurrentValue to 4)
@@ -69,9 +69,7 @@ A pressure passage collects those values, applies them to city pressure, resets 
 
 Quest passages stay simple — they only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence. The full production discipline behind this — hub vs. debug view, link phrasing, state reset rules — is documented in [Twine Passage Rules](../vault/case-study-03/twine-passage-rules.md), part of Noeme Systems.
 
-## Result
-
-The final loop:
+The final loop became:
 
 ```text
 NPC action → Layer 3
