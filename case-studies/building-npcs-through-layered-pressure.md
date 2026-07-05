@@ -52,9 +52,9 @@ This stack follows the same underlying chain as the rest of the portfolio's worl
 
 ## Evidence
 
-- NPC Emotional State Model
-- NPC System Relationship Model
+- [NPC Emotional State Model](../vault/case-study-04/npc-emotional-state-model.md)
+- [NPC System Relationship Model](../vault/case-study-04/npc-system-relationship-model.md)
 
 ---
 
-← Previous: [Testing the Method Through Layered Reactivity](./testing-the-method-through-layered-reactivity.md) · [README](../README.md)
+← Previous: [Testing the Method Through Layered Reactivity](./testing-the-method-through-layered-reactivity.md) · [README](../README.md) · Continue to: [Noeme Systems →](https://github.com/VediRago/diogo-oliveira-noeme-systems)
