@@ -1,6 +1,6 @@
 ↩ [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
-# Case Study 02 Support
+# Building a Modular Narrative Method Support
 
 This folder contains the supporting evidence behind **Building a Modular Narrative Method**.
 
