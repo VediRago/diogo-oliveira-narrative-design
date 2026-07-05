@@ -1,19 +1,19 @@
-↩ [Back to Case Study 02](../../case-studies/building-a-modular-narrative-method.md)
+↩ [Back to Building a Modular Narrative Method](../../case-studies/building-a-modular-narrative-method.md)
 
 # Case Study 02 Support
 
-This folder contains support files for Case Study 02: Building a Modular Narrative Method.
+This folder contains the supporting evidence behind **Building a Modular Narrative Method**.
 
-These files explain the modular narrative method and the evidence behind its validation.
+The files document the method itself, the rules governing its extension, and the evidence used to test the method across different scales.
 
 ## Files
 
-- [Modular Method](modular-method.md)
-- [Extension Rule](extension-rule.md)
-- [Method Chain](method-chain.md)
-- [Constraint Through Meaning](constraint-through-meaning.md)
-- [Viriatus](viriatus.md)
-- [Regulatus](regulatus.md)
-- [AVD Calendar](avd-calendar.md)
-- [Atmosphere Emergence](atmosphere-emergence.md)
-- [History Level — Era Timeline](history-level-era-timeline.md)
+- [Modular Method](modular-method.md) — defines the scalable method chain.
+- [Extension Rule](extension-rule.md) — explains when the chain should and should not be extended.
+- [Method Chain](method-chain.md) — documents the relationship between each layer of the chain.
+- [Constraint Through Meaning](constraint-through-meaning.md) — explains why each new layer narrows possibilities instead of adding arbitrary complexity.
+- [Viriatus](viriatus.md) — supporting evidence for the Character Level.
+- [Regulatus](regulatus.md) — supporting evidence for the Place Level.
+- [AVD Calendar](avd-calendar.md) — supporting evidence for the History Level.
+- [Atmosphere Emergence](atmosphere-emergence.md) — validation that atmosphere emerges from repeated behavior in an unrelated setting.
+- [History Level — Era Timeline](history-level-era-timeline.md) — validation that the History Level continues to hold across long-term institutional change.
