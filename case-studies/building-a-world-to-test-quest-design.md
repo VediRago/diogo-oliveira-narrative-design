@@ -58,7 +58,7 @@ He was killed, and his name, achievements, and death were used by the [Ventari f
 
 Viriatus became the first stone used to build the Empire under [Ventari](../vault/case-study-01/house-ventari.md) manipulation.
 
-For [Regulatus](../vault/case-study-01/regulatus.md) to impact quest design, it needed to belong to the world. It had to feel like something produced by the setting's history.
+For [Regulatus](../vault/case-study-01/regulatus.md) to influence quest logic, it needed to belong to the world. It had to feel like something produced by the setting's history.
 
 I tied Regulatus to [House Ventari's](../vault/case-study-01/house-ventari.md) conquests.
 
