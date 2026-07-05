@@ -37,6 +37,10 @@ From world pressure, to method, to prototype, to long-form narrative architectur
 
 [Building NPCs Through Layered Pressure](case-studies/building-npcs-through-layered-pressure.md) applies the same design thinking to individual characters — system relationship, location pressure, group pressure, and personal state stacked into believable behavior.
 
+## Process
+
+[Development Diary](development-diary/README.md) records the development process itself — dated decisions, experiments, and learning milestones behind the case studies.
+
 ## Related Projects
 
 The methods documented in this repository emerged while building the Erit world to solve narrative design problems, beginning with believable quest design.
