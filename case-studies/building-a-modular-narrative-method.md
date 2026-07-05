@@ -24,7 +24,7 @@ Base chain: Experience → Emotion → Reason → Behavior.
 
 **Viriatus.** His displacement created fear, longing, and a need for belonging. That emotion became a reason: order could protect what chaos destroyed. That reason became behavior: he accepted training, became useful, and released pressure through conquest.
 
-This same chain holds at finer resolution too — see Building NPCs Through Layered Pressure for how it applies to any individual character, not just a historical founder.
+The same chain can be applied at finer individual resolution, but that production-facing NPC system belongs in Noeme Systems rather than this Narrative Design case study.
 
 ### Place Level
 
