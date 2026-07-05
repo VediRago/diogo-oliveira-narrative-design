@@ -1,8 +1,8 @@
-↩ [Back to Case Study 04](../../case-studies/building-npcs-through-layered-pressure.md)
+↩ [Back to Building NPCs Through Layered Pressure](../../case-studies/building-npcs-through-layered-pressure.md)
 
-# Case Study 04 Support
+# Building NPCs Through Layered Pressure Support
 
-This folder contains support files for Case Study 04: Building NPCs Through Layered Pressure.
+This folder contains support files for **Building NPCs Through Layered Pressure**.
 
 These files explain the NPC modeling documents used by the case study.
 
