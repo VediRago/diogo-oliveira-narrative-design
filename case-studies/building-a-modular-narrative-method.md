@@ -32,7 +32,7 @@ Characters are explained through behavior. A city, faction, or culture creates a
 
 **A Regulatus-shaped city.** Generations live under records, hierarchy, inspections, family honor, and civic gratitude — creating pride, fear of disorder, and a desire to be seen as worthy. Citizens police themselves, clerks deny exceptions, guards monitor public speech, parents teach gratitude. As those behaviors repeat, the city itself begins to feel orderly, proud, watched, formal, and quietly controlling. Atmosphere emerges from repeated behavior.
 
-The same mechanism was tested again on unrelated material — see [Atmosphere Emergence](../vault/case-study-02/atmosphere-emergence.md) — and held on a second, independently-built setting, not just the one it was first observed in.
+The same mechanism was tested again on unrelated material — see [Atmosphere Emergence](../vault/case-study-02/atmosphere-emergence.md) — and held on a second, independently-built setting.
 
 ### History Level
 
@@ -40,15 +40,13 @@ Some atmospheres outlast a single place or generation. When repeated behavior su
 
 **The AVD calendar.** Viriatus's death created public grief, pride, confusion, and fear of disorder. That feeling repeated through ceremony, record, doctrine, and public memory — durable enough, over time, to become a calendar. The AVD calendar begins when Regulatus is publicly declared: atmosphere turning into history.
 
-This isn't a single-event exception — see [History Level — Era Timeline](../vault/case-study-02/history-level-era-timeline.md) for how the same logic holds across three thousand years of institutional change, each stage a direct consequence of the one before it.
+This isn't a single-event exception — see [History Level — Era Timeline](../vault/case-study-02/history-level-era-timeline.md).
 
 ### Gameplay Level
 
 History and atmosphere explain the world. The next step was turning that pressure into something playable — quests emerging from the world instead of sitting on top of it. Extended chain: → Quest Logic.
 
 **Chip removal.** Someone trying to join the rebels needs to disappear from official systems. Their chip ties them to identification, records, medicine, and surveillance — creating fear, urgency, distrust, and the desire to disappear. They avoid clinics, hide symptoms, seek unofficial help, treat medical visibility as a threat. The atmosphere becomes one of suspicion, dependency, and bodily control. The quest emerges from that pressure — the player steps into a situation the world already created.
-
-## Result
 
 The same method holds at every scale, without forcing complexity where it isn't earned. A character might only need Experience → Emotion → Reason → Behavior. A city needs Atmosphere. An institution needs History. A quest needs the full chain to Quest Logic. Only the depth changes.
 
