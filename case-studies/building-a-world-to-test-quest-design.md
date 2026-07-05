@@ -8,7 +8,7 @@ Believable quests need pressure before they need tasks.
 
 A quest should feel like it emerged from the world around it: its history, institutions, public beliefs, family expectations, laws, fears, and conflicts.
 
-The method is to build the conditions that could generate quest opportunities, then let quests appear as consequences of those conditions.
+The method is to build the conditions that could generate quest opportunities, then let quests appear as consequences of those conditions. This applies a more general [worldbuilding method](../vault/case-study-01/worldbuilding-method.md) to one specific problem: quest design.
 
 ---
 
@@ -54,7 +54,7 @@ The statue became a way to give that figure weight, similar to how monuments or 
 
 Creating Viriatus gave the calendar a figure, and his importance needed a consequence.
 
-He was killed, and his name, achievements, and death were used by the [Ventari family](../vault/case-study-01/house-ventari.md) to create [Regulatus](../vault/case-study-01/regulatus.md).
+He was killed, and his name, achievements, and death were used by the [Ventari family](../vault/case-study-01/house-ventari.md) to create [Regulatus](../vault/case-study-01/regulatus.md) — his death becoming [proof of Ventari discipline](../vault/case-study-01/viriatus-death-and-proof.md), not just a fact to be mourned.
 
 Viriatus became the first stone used to build the Empire under [Ventari](../vault/case-study-01/house-ventari.md) manipulation.
 
@@ -81,27 +81,29 @@ The original goal was quest design.
 The chain became:
 
 ```text
-history
+experience
 ↓
-public meaning
+emotion
 ↓
-ideology
-↓
-feeling
+reason
 ↓
 behavior
 ↓
 atmosphere
 ↓
-quest pressure
+history
+↓
+quest logic
 ```
 
 Quest opportunities emerged from the world rather than being placed on top of it.
 
 ## Evidence
 
+- [Worldbuilding Method](../vault/case-study-01/worldbuilding-method.md)
 - [AVD Calendar](../vault/case-study-01/avd-calendar.md)
 - [Viriatus](../vault/case-study-01/viriatus.md)
+- [Viriatus — Death and Proof](../vault/case-study-01/viriatus-death-and-proof.md)
 - [House Ventari](../vault/case-study-01/house-ventari.md)
 - [Regulatus](../vault/case-study-01/regulatus.md)
 
