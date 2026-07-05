@@ -36,7 +36,7 @@ If player action could change a faction too easily, factions would stop feeling 
 
 The fix: Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities. If Scutis currently has the upper hand, Novacula has a harder time regaining power through faction pressure alone — the player may need to build influence through NPCs and local reactions first before faction pressure becomes effective again. This creates an anti-snowball effect.
 
-This same principle — identity stays fixed while effectiveness fluctuates with context — holds at the individual scale too. See Building NPCs Through Layered Pressure: an NPC's System Relationship (Believer, Rejector, Damaged Believer) doesn't change easily either, for the same structural reason a faction doesn't. Whether it can shift under sustained pressure is still an open question being tested — see the development diary's note on layer shifts as a test candidate, not yet confirmed as a working system.
+This same principle — identity stays fixed while effectiveness fluctuates with context — can also apply at individual scale. That production-facing extension belongs in Noeme Systems rather than this Narrative Design case study.
 
 ### Making City State Reversible
 
@@ -90,8 +90,7 @@ Together with the previous two case studies, this shows the same method holding 
 
 - [Layer Test Twine Prototype →](https://vedirago.github.io/diogo-oliveira-portfolio/Layer%20Test%20Twine/index.html)
 - [Twine Passage Rules — Noeme Systems](../vault/case-study-03/twine-passage-rules.md)
-- Building NPCs Through Layered Pressure
 
 ---
 
-← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md) · Next: Building NPCs Through Layered Pressure →
+← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md)
