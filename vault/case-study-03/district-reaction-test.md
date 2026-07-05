@@ -1,10 +1,10 @@
-← [Back to Case Study 03](../../case-studies/testing-the-method-through-layered-reactivity.md)
+← [Back to Testing the Method Through Layered Reactivity](../../case-studies/testing-the-method-through-layered-reactivity.md)
 
 # District Reaction Test
 
 This test checks whether a district can react to player action without making major factions lose their identity.
 
-A district in Vys begins with a strong [Regulatus](../wiki/regulatus.md) layer. It has ration offices, records, permits, Scutis authority, and fear of disorder. It also carries a weaker Gang / Block layer because daily survival still depends on local people, local favors, and local protection.
+A district in Vys begins with a strong [Regulatus](layer-1-regulatus.md) layer. It has ration offices, records, permits, Scutis authority, and fear of disorder. It also carries a weaker Gang / Block layer because daily survival still depends on local people, local favors, and local protection.
 
 Lux is present through an aid hall. Novacula exists only as a weak idea spreading through rumor. Virtus and Scutis remain as authority pressure.
 
