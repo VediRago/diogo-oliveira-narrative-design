@@ -67,7 +67,7 @@ A pressure passage collects those values, applies them to city pressure, resets 
 (goto: "Layer 1")
 ```
 
-Quest passages stay simple — they only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence. The full production discipline behind this — hub vs. debug view, link phrasing, state reset rules — is documented in [Twine Passage Rules](../vault/case-study-03/twine-passage-rules.md).
+Quest passages stay simple — they only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence. The full production discipline behind this — hub vs. debug view, link phrasing, state reset rules — is documented in [Twine Passage Rules](../vault/case-study-03/twine-passage-rules.md), part of Noeme Systems.
 
 ## Result
 
@@ -89,9 +89,9 @@ Together with the previous two case studies, this shows the same method holding 
 ## Evidence
 
 - [Layer Test Twine Prototype →](https://vedirago.github.io/diogo-oliveira-portfolio/Layer%20Test%20Twine/index.html)
-- [Twine Passage Rules](../vault/case-study-03/twine-passage-rules.md)
+- [Twine Passage Rules — Noeme Systems](../vault/case-study-03/twine-passage-rules.md)
 - Building NPCs Through Layered Pressure
 
 ---
 
-← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md) · Next: [Noeme — Layered Narrative System](./noeme-layered-narrative-system.md) →
+← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md) · Next: Building NPCs Through Layered Pressure →
