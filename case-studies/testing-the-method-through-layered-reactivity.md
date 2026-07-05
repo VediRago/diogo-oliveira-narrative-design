@@ -1,111 +1,61 @@
-# Case Study 03 — Testing The Method Through Layered Reactivity
+# Testing the Method Through Layered Reactivity
 
-← [Back to README](../README.md)
+*One of the applied methods behind this narrative design portfolio.*
 
-## Main Problem
+## The Method
 
-After building the world logic and [modular method](building-a-modular-narrative-method.md), the next question was whether the same thinking could drive a reactive prototype.
+A reactive world should respond to the player without letting any single actor lose its shape.
 
-A simple reputation bar, where one faction goes up, another goes down, and the world reacts through direct switches, can make factions feel too flexible. Their identity starts to feel as if it changes whenever the player touches them.
+The method is to separate actor identity from actor influence: a faction stays what it is, while how strongly its actions land depends on the current pressure inside the city it acts within.
 
-The challenge was to let the world react without making every actor lose its shape.
+## Explanation
 
-A faction should remain itself. A local character should remain local. A city state should change, while preserving the identity of the forces acting inside it.
+A simple reputation bar — one faction up, another down, the world reacting through direct switches — makes every actor feel infinitely flexible. Identity starts to look like whatever the player last touched.
 
-## Main Solution
+Separating identity from influence fixes this without adding unnecessary simulation. A faction remains itself; only the effectiveness of its actions shifts with context. Done right, this also prevents any single path from permanently dominating the city state — the stronger side can always be challenged, and the city keeps memory of how it got there.
 
-I tested the method in Twine through a layered reactivity system.
+## Application
 
-The solution was to separate actor identity from actor influence.
+Testing the method in Twine exposed four dependent design problems, each one created by solving the last.
 
-A local action can affect the city while remaining local. A faction action can shape citizens' reactions while remaining faction pressure. Each layer keeps its role, while still influencing the effectiveness of the others.
+### Avoiding Simple Reputation
 
-The working structure became:
+Treating every action as a direct raise/lower on one faction produces a reactive but shallow world — the player moves numbers instead of changing pressure inside a living place.
 
-```text
-Layer 3 — NPC / Local Behavior
-Layer 2 — Faction Pressure
-Layer 1 — City / World State
-```
+The fix: treat each layer as a different scale of influence.
 
-The key rule was:
+- **Layer 3 — NPC / Local Behavior:** individual NPCs, small groups, local trust, fear, access, personal consequences
+- **Layer 2 — Faction Pressure:** organized groups, public authority, rebels, institutional force, coordinated action
+- **Layer 1 — City / World State:** the wider condition created by accumulated pressure
 
-```text
-Actor decides layer.
-Pressure decides city.
-City decides future context.
-```
+Local behavior and faction pressure can now affect the city while keeping separate roles.
 
-## Problem 01 — Avoiding Simple Reputation
+### Keeping Factions Stable
 
-The first risk was turning the system into a disguised reputation meter.
+If player action could change a faction too easily, factions would stop feeling like institutions with memory, ideology, and limits. Scutis should remain Scutis. Novacula should remain Novacula — the city state can shift without rewriting what those factions are.
 
-If every action simply raised one faction and lowered another, the world would feel reactive but shallow. The player would be moving numbers instead of changing pressure inside a living place.
+The fix: Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities. If Scutis currently has the upper hand, Novacula has a harder time regaining power through faction pressure alone — the player may need to build influence through NPCs and local reactions first before faction pressure becomes effective again. This creates an anti-snowball effect.
 
-## Solution
+This same principle — identity stays fixed while effectiveness fluctuates with context — holds at the individual scale too. See Building NPCs Through Layered Pressure: an NPC's System Relationship (Believer, Rejector, Damaged Believer) doesn't change easily either, for the same structural reason a faction doesn't. Whether it can shift under sustained pressure is still an open question being tested — see the development diary's note on layer shifts as a test candidate, not yet confirmed as a working system.
 
-I treated each layer as a different scale of influence.
+### Making City State Reversible
 
-Layer 3 handles local behavior: individual NPCs, small groups, local trust, fear, access, and personal consequences.
+A higher Scutis tier needs to be challengeable later; Novacula gaining ground still needs to leave room for order to return. The city needed to be stateful, but reversible.
 
-Layer 2 handles faction pressure: organized groups, public authority, rebels, institutional force, and coordinated action.
+The fix: city state changes through accumulated pressure, then reshapes future context. If the player lowers Scutis control through Novacula pressure, NPC influence recalculates through the new city context. No single path can permanently dominate the city state.
 
-Layer 1 handles the city or world state: the wider condition created by accumulated pressure.
+### Implementing the Loop in Twine
 
-This allowed local behavior and faction pressure to affect the city while keeping separate roles.
+The prototype needed to test this logic without turning every passage into a full simulation.
 
-## Problem 02 — Keeping Factions Stable
-
-The second problem was faction identity.
-
-If player action could change a faction too easily, factions would stop feeling like institutions with memory, ideology, and limits.
-
-Scutis should remain Scutis. Novacula should remain Novacula. The city state can shift without rewriting what those factions are.
-
-## Solution
-
-Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities.
-
-A faction remains itself. What changes is how strongly its actions land inside the current social condition of the city.
-
-If Scutis currently has the upper hand, Novacula has a harder time regaining power through faction pressure alone. The player may need to work through local behavior first, building influence through NPCs and smaller social reactions before faction pressure becomes effective again.
-
-This creates an anti-snowball effect.
-
-The stronger side can be challenged, while the city keeps memory of how it reached its current state.
-
-## Problem 03 — Making City State Reversible
-
-The city needed more than one fixed end state.
-
-A higher Scutis tier can be challenged later. Novacula gaining ground can still leave room for order to return.
-
-The city needed to be stateful, but reversible.
-
-## Solution
-
-The city state changes through accumulated pressure, then reshapes future context.
-
-A change in city state can reset or reframe local influence because the social environment has changed. If the player lowers Scutis control from one tier to another through Novacula pressure, NPC influence is recalculated through the new city context.
-
-This means the system allows change through local behavior, faction pressure, or both, while preventing any single path from permanently dominating the city state.
-
-## Problem 04 — Implementing The Loop In Twine
-
-The next challenge was implementation.
-
-The prototype needed to test the logic without turning every passage into a complex simulation.
-
-## Solution
-
-Quest passages only set the current layer values.
+The fix: quest passages only set the current layer values.
 
 ```twine
 (set: $layer2CurrentValue to 4)
 (set: $layer3CurrentValue to -2)
 ```
 
-A pressure passage then collects those values, applies them to the city pressure, resets the temporary values, and moves the story into the city-state check.
+A pressure passage collects those values, applies them to city pressure, resets the temporary values, and moves the story into the city-state check:
 
 ```twine
 (set: $pressureVysControl to $pressureVysControl + $layer2CurrentValue)
@@ -117,64 +67,31 @@ A pressure passage then collects those values, applies them to the city pressure
 (goto: "Layer 1")
 ```
 
-This keeps the quest passages simple.
-
-They only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence.
+Quest passages stay simple — they only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence. The full production discipline behind this — hub vs. debug view, link phrasing, state reset rules — is documented in Twine Passage Rules.
 
 ## Result
 
-The prototype showed that layered reactivity can remain fluid without becoming shapeless.
-
-Local behavior, faction pressure, and city state can affect one another without collapsing into one system.
-
-The method also kept the design scalable. New quests only need to decide what layer they affect and how strongly.
-
-The final loop is:
+The final loop:
 
 ```text
-NPC action -> Layer 3
-Faction action -> Layer 2
-
+NPC action → Layer 3
+Faction action → Layer 2
 Layer 2 and Layer 3 modify each other's effectiveness
-
-Layer 2 + Layer 3 -> Pressure
-
-Pressure -> Layer 1 City State
-
-Layer 1 City State -> future NPC behavior, faction access, location mood, and quest logic
+Layer 2 + Layer 3 → Pressure
+Pressure → Layer 1 City State
+Layer 1 City State → future NPC behavior, faction access, location mood, and quest logic
 ```
 
-This connects back to the wider portfolio [method chain](../vault/case-study-02/method-chain.md):
+This connects back to the wider portfolio method chain: past experience + current situation → emotional state → reason → behavior → new experience. In the prototype, experiences create pressure; influence decides how far that pressure spreads; layers decide where it acts.
 
-```text
-past experience
-+
-current situation
--> emotional state
--> reason
--> behavior
--> new experience
-```
+Together with the previous two case studies, this shows the same method holding across scales: history creating pressure, the chain scaling from character to institution, and now that logic tested inside an interactive prototype — pressure that moves values instead of resetting them.
 
-In the prototype, experiences create pressure. Influence decides how far that pressure spreads. Layers decide where that pressure acts.
+## Evidence
 
-## What This Proves
-
-This case study tested whether the earlier worldbuilding method could become playable structure.
-
-[Case Study 01](building-a-world-to-test-quest-design.md) showed how history can create pressure.
-
-[Case Study 02](building-a-modular-narrative-method.md) showed how the method can scale from character to place, history, and quest logic.
-
-Case Study 03 tested that logic inside an interactive prototype.
-
-The result is a reactivity model where choices move values that reshape context.
-
-## Support Files
-
-For the short principle behind this system, see [Faction Pressure Principles](../vault/case-study-03/faction-pressure-principles.md).
-
-For the full supporting material, see the [Case Study 03 Support Index](../vault/case-study-03/README.md).
+- [Layer Test Twine Prototype →](https://vedirago.github.io/diogo-oliveira-portfolio/Layer%20Test%20Twine/index.html)
+- Twine Passage Rules
+- Building NPCs Through Layered Pressure
 
 ---
-© Diogo Oliveira — June 2026
+
+← Previous: [Building a Modular Narrative Method](./building-a-modular-narrative-method.md) · [README](../README.md) · Next: [Noeme — Layered Narrative System](./noeme-layered-narrative-system.md) →
